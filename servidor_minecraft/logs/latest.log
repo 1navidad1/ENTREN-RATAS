@@ -181,3 +181,5 @@
 [29Dec2024 21:15:47.578] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [29Dec2024 21:21:52.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAVIDAD[/127.147.255.185:53581] logged in with entity id 286 at (-50.5, 63.0, -34.5)
 [29Dec2024 21:21:52.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD joined the game
+[29Dec2024 21:24:46.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAVIDAD lost connection: Disconnected
+[29Dec2024 21:24:46.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD left the game

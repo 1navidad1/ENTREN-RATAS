@@ -750,3 +750,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Dec2024 21:21:52.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAVIDAD[/127.147.255.185:53581] logged in with entity id 286 at (-50.5, 63.0, -34.5)
 [29Dec2024 21:21:52.755] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@ebf71fc into net.minecraft.network.Connection@18e6aa34
 [29Dec2024 21:21:52.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD joined the game
+[29Dec2024 21:24:46.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAVIDAD lost connection: Disconnected
+[29Dec2024 21:24:46.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD left the game
+[29Dec2024 21:25:47.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 21:25:47.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 21:30:47.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 21:30:47.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
