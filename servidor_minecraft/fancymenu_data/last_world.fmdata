@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = false
-  world = C:/Users/JOSE ANTONIO/AppData/Roaming/.minecraft/versions/More FPS [FORGE] - BETTER PERFORMANCE (1.21 UPDATE)/saves/Mundo nuevo
-}
-
