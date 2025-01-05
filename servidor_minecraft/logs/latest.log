@@ -846,3 +846,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 15:41:51.745] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
 [05Jan2025 15:42:11.777] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
 [05Jan2025 15:43:30.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Zombie
+[05Jan2025 15:44:26.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Zombie
+[05Jan2025 15:45:17.002] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[05Jan2025 15:46:57.309] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[05Jan2025 15:49:47.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Zombie
+[05Jan2025 15:51:57.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Zombie
+[05Jan2025 15:53:44.760] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[05Jan2025 15:53:44.763] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[05Jan2025 15:53:44.789] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[05Jan2025 15:53:44.792] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
