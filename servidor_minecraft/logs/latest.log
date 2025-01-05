@@ -883,3 +883,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 21:07:56.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was shot by Skeleton
 [05Jan2025 21:10:08.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Slugger
 [05Jan2025 21:10:59.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was killed by Naga using magic
+[05Jan2025 21:12:47.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 has made the advancement [Wingin' It]
+[05Jan2025 21:15:51.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Deepling Brute
+[05Jan2025 21:16:02.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Deepling Brute
+[05Jan2025 21:16:58.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Deepling Brute
+[05Jan2025 21:17:20.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Deepling Brute
