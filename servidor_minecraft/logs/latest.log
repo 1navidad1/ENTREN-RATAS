@@ -896,3 +896,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 21:43:11.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Botfly
 [05Jan2025 21:48:06.950] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [05Jan2025 21:48:06.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> amigo engorde
+[05Jan2025 22:10:03.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mansana_12 lost connection: Disconnected
+[05Jan2025 22:10:03.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 left the game
+[05Jan2025 22:11:10.630] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f26fad4[id=<null>,name=Mansana_12,properties={},legacy=false] (/127.147.255.185:53137) lost connection: Disconnected
+[05Jan2025 22:11:15.848] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mansana_12[/127.147.255.185:33833] logged in with entity id 35813 at (-77.30000001192093, 38.0, 351.69999998807907)
+[05Jan2025 22:11:15.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
+[05Jan2025 22:11:15.931] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
