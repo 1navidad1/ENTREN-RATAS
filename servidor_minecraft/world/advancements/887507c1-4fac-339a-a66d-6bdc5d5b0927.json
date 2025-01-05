@@ -2629,15 +2629,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-05 22:18:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-01-05 22:30:56 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/lapis": {
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
-      "has_lapis_lazuli": "2025-01-05 22:18:23 +0000"
+      "bypassingthe_expiration_date_0": "2025-01-05 22:44:18 +0000"
     },
     "done": true
   },

@@ -923,3 +923,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 22:41:23.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
 [05Jan2025 22:42:56.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was doomed to fall by Umvuthi, the Sunbird
 [05Jan2025 22:43:09.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[05Jan2025 22:44:18.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 has made the advancement [Bypassing the Expiration Date]
+[05Jan2025 22:44:51.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was doomed to fall
+[05Jan2025 22:44:51.361] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_05.01.2025-22.44.51.dat
+[05Jan2025 22:45:09.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Umvuthana
+[05Jan2025 22:47:25.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[05Jan2025 22:48:08.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[05Jan2025 22:48:11.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mansana_12 lost connection: Disconnected
+[05Jan2025 22:48:11.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 left the game
+[05Jan2025 22:48:19.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BastiMC lost connection: Disconnected
+[05Jan2025 22:48:19.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC left the game
+[05Jan2025 22:48:28.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BastiMC[/127.147.255.185:54995] logged in with entity id 54694 at (-119.76835237888112, 72.0, 533.6654612868333)
+[05Jan2025 22:48:28.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC joined the game
+[05Jan2025 22:48:28.354] [Server thread/INFO] [Jade/]: Syncing config to BastiMC (4938fc54-3b3a-35a1-9aac-7049868f6dcb)
+[05Jan2025 22:48:30.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mansana_12[/127.147.255.185:46169] logged in with entity id 54986 at (42.57520784501679, 80.0, 570.9824509474153)
+[05Jan2025 22:48:30.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
+[05Jan2025 22:48:30.574] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
+[05Jan2025 22:51:04.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was doomed to fall by Umvuthi, the Sunbird
+[05Jan2025 22:51:04.748] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_05.01.2025-22.51.04.dat
+[05Jan2025 22:51:47.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Umvuthi, the Sunbird
+[05Jan2025 22:52:41.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[05Jan2025 22:52:41.503] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_05.01.2025-22.52.41.dat
+[05Jan2025 22:53:20.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was burnt to a crisp whilst fighting Umvuthi, the Sunbird
