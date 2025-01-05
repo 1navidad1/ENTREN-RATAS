@@ -945,3 +945,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 22:52:41.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was burnt to a crisp whilst fighting Umvuthi, the Sunbird
 [05Jan2025 22:52:41.503] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_05.01.2025-22.52.41.dat
 [05Jan2025 22:53:20.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[05Jan2025 22:53:58.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was doomed to fall
+[05Jan2025 22:53:58.606] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_05.01.2025-22.53.58.dat
+[05Jan2025 22:55:07.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[05Jan2025 22:55:40.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[05Jan2025 22:56:17.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[05Jan2025 22:56:17.310] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_05.01.2025-22.56.17.dat
+[05Jan2025 22:56:53.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[05Jan2025 22:57:52.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 has made the advancement [Birds of a Feather]
+[05Jan2025 22:57:54.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Umvuthana
+[05Jan2025 22:57:54.598] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_05.01.2025-22.57.54.dat
+[05Jan2025 22:58:41.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC has completed the challenge [Praise the Sun]
+[05Jan2025 22:59:48.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> cui
+[05Jan2025 22:59:54.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> kui
+[05Jan2025 22:59:57.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> qui
+[05Jan2025 23:02:42.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[05Jan2025 23:03:26.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD has made the advancement [False Water]
