@@ -894,3 +894,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 17:09:50.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Zombie
 [05Jan2025 17:09:51.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Zombie
 [05Jan2025 17:14:42.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Corpse Fish
+[05Jan2025 17:16:07.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Glutton Fish
+[05Jan2025 17:16:51.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD has made the advancement [Not Today, Thank You]
+[05Jan2025 17:23:23.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was doomed to fall by Umvuthi, the Sunbird
+[05Jan2025 17:23:23.623] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_05.01.2025-17.23.23.dat
+[05Jan2025 17:24:27.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 has made the advancement [Ice Cubed]
