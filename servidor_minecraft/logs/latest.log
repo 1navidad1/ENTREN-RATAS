@@ -904,3 +904,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 22:11:15.931] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
 [05Jan2025 22:15:51.046] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
 [05Jan2025 22:23:07.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> amiguito engorde
+[05Jan2025 22:28:52.464] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_939_biped
+[05Jan2025 22:29:23.658] [Worker-Main-24/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[05Jan2025 22:29:30.562] [Worker-Main-24/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[05Jan2025 22:32:22.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD has made the advancement [Birds of a Feather]
+[05Jan2025 22:33:12.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[05Jan2025 22:33:12.446] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_05.01.2025-22.33.12.dat
