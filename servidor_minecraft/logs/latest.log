@@ -872,3 +872,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 20:49:27.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 has reached the goal [Hunted]
 [05Jan2025 20:50:06.687] [Worker-Main-24/INFO] [ModernFix/]: Instantiating Mojang DFU
 [05Jan2025 20:51:29.157] [Worker-Main-24/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[05Jan2025 20:53:04.958] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[05Jan2025 20:58:04.985] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[05Jan2025 20:58:05.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was struck by lightning whilst fighting Ewart the Cold
+[05Jan2025 21:02:01.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was struck by lightning
+[05Jan2025 21:02:03.531] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Ewart the Cold'/5212, l='ServerLevel[world]', x=-161.15, y=43.00, z=303.56] died: Ewart the Cold was struck by lightning whilst fighting NAVIDAD
