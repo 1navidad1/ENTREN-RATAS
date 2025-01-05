@@ -893,3 +893,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 21:28:28.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAVIDAD moved wrongly!
 [05Jan2025 21:29:52.595] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
 [05Jan2025 21:30:03.213] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[05Jan2025 21:43:11.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Botfly
+[05Jan2025 21:48:06.950] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[05Jan2025 21:48:06.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> amigo engorde
