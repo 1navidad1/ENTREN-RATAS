@@ -875,3 +875,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 16:21:24.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Zombie
 [05Jan2025 16:21:24.305] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_05.01.2025-16.21.24.dat
 [05Jan2025 16:23:41.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Zombie
+[05Jan2025 16:25:31.358] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[05Jan2025 16:26:26.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Zombie
+[05Jan2025 16:26:41.975] [Worker-Main-19/INFO] [ModernFix/]: Instantiating Mojang DFU
+[05Jan2025 16:31:28.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Zombie
+[05Jan2025 16:31:28.006] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_05.01.2025-16.31.28.dat
+[05Jan2025 16:31:32.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Zombie
+[05Jan2025 16:33:28.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC has made the advancement [Cover Me with Diamonds]
+[05Jan2025 16:33:59.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD has made the advancement [Acquire Hardware]
