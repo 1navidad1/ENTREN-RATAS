@@ -885,6 +885,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-04 22:59:34 +0000",
       "minecraft:spider": "2025-01-04 22:19:10 +0000",
+      "minecraft:stray": "2025-01-05 21:02:03 +0000",
       "minecraft:zombie": "2025-01-05 15:42:11 +0000",
       "minecraft:drowned": "2025-01-05 20:48:00 +0000",
       "minecraft:zombie_villager": "2025-01-05 20:50:19 +0000"
@@ -2491,6 +2492,12 @@
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2025-01-05 17:50:38 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-01-05 21:04:53 +0000"
     },
     "done": true
   },

@@ -877,3 +877,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 20:58:05.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was struck by lightning whilst fighting Ewart the Cold
 [05Jan2025 21:02:01.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was struck by lightning
 [05Jan2025 21:02:03.531] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Ewart the Cold'/5212, l='ServerLevel[world]', x=-161.15, y=43.00, z=303.56] died: Ewart the Cold was struck by lightning whilst fighting NAVIDAD
+[05Jan2025 21:04:53.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD has made the advancement [Life turned out to be a comedy]
+[05Jan2025 21:06:19.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was shot by Missionary
+[05Jan2025 21:07:54.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was shot by Bonescaller
+[05Jan2025 21:07:56.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was shot by Skeleton
+[05Jan2025 21:10:08.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Slugger
+[05Jan2025 21:10:59.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was killed by Naga using magic
