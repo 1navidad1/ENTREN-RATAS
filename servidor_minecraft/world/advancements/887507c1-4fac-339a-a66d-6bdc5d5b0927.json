@@ -534,6 +534,7 @@
       "baked_potato": "2025-01-04 23:18:55 +0000",
       "apple": "2025-01-04 21:40:20 +0000",
       "potato": "2025-01-04 23:18:59 +0000",
+      "pumpkin_pie": "2025-01-05 23:04:49 +0000",
       "bread": "2025-01-04 22:18:12 +0000",
       "cookie": "2024-12-30 02:11:10 +0000",
       "carrot": "2025-01-05 16:41:00 +0000"
@@ -2647,9 +2648,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
+  "mowziesmobs:sneak_grove": {
     "criteria": {
-      "has_mushroom_stew": "2025-01-05 23:00:55 +0000"
+      "steal_crystal": "2025-01-05 22:57:52 +0000"
     },
     "done": true
   },
@@ -2659,9 +2660,21 @@
     },
     "done": true
   },
-  "mowziesmobs:sneak_grove": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "steal_crystal": "2025-01-05 22:57:52 +0000"
+      "has_mushroom_stew": "2025-01-05 23:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-05 23:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-01-05 23:09:04 +0000"
     },
     "done": true
   },
