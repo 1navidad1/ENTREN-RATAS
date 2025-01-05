@@ -444,11 +444,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-05 23:48:04 +0000",
       "minecraft:skeleton": "2024-12-30 02:12:44 +0000",
       "minecraft:magma_cube": "2025-01-04 23:03:05 +0000",
       "minecraft:spider": "2025-01-04 22:31:59 +0000",
+      "minecraft:evoker": "2025-01-05 23:50:05 +0000",
       "minecraft:husk": "2025-01-05 23:19:26 +0000",
       "minecraft:silverfish": "2025-01-05 20:21:00 +0000",
+      "minecraft:vex": "2025-01-05 23:50:05 +0000",
       "minecraft:zombie": "2025-01-04 22:26:28 +0000",
       "minecraft:drowned": "2024-12-30 02:09:44 +0000",
       "minecraft:zombie_villager": "2025-01-05 17:45:32 +0000"
@@ -2291,6 +2294,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_pirate_ship": "2025-01-05 23:46:17 +0000",
       "entered_fishing_ship": "2025-01-05 20:35:01 +0000",
       "entered_ruined_building": "2025-01-05 17:36:12 +0000"
     },
@@ -2677,6 +2681,30 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-01-05 23:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2025-01-05 23:52:35 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2025-01-05 23:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-05 23:52:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ahoy": {
+    "criteria": {
+      "entered_pirate_ship": "2025-01-05 23:46:17 +0000"
     },
     "done": true
   },
