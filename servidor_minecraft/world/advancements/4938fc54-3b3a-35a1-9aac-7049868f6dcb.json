@@ -2217,6 +2217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-01-05 17:46:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-01-05 16:03:21 +0000"
@@ -2244,6 +2250,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-01-05 15:54:09 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-01-05 17:45:43 +0000"
     },
     "done": true
   },
@@ -2583,6 +2595,12 @@
     },
     "done": true
   },
+  "simplyswords:frostfall": {
+    "criteria": {
+      "requirement": "2025-01-05 17:47:10 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/gold_diamond_chest": {
     "criteria": {
       "has_diamonds": "2025-01-05 15:54:09 +0000"
@@ -2598,6 +2616,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-05 15:47:33 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "steal_crystal": "2025-01-05 17:34:58 +0000"
     },
     "done": true
   },
