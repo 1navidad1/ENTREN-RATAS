@@ -1002,3 +1002,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 23:23:08.759] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
 [05Jan2025 23:23:47.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Husk
 [05Jan2025 23:23:47.795] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_05.01.2025-23.23.47.dat
+[05Jan2025 23:24:51.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Corpse Maggot
+[05Jan2025 23:25:27.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Husk
+[05Jan2025 23:25:30.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mansana_12 lost connection: Disconnected
+[05Jan2025 23:25:30.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 left the game
+[05Jan2025 23:28:07.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Husk
+[05Jan2025 23:28:45.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was killed by Area Effect Cloud using magic
+[05Jan2025 23:29:37.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Husk
+[05Jan2025 23:33:34.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Husk
+[05Jan2025 23:35:20.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Corpse Fly
+[05Jan2025 23:39:40.238] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mansana_12[/127.147.255.185:37807] logged in with entity id 81496 at (26.637035307492383, 85.0, 635.6999999880791)
+[05Jan2025 23:39:40.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
+[05Jan2025 23:39:40.294] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
