@@ -888,3 +888,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 21:16:02.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Deepling Brute
 [05Jan2025 21:16:58.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Deepling Brute
 [05Jan2025 21:17:20.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Deepling Brute
+[05Jan2025 21:24:17.974] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[05Jan2025 21:28:09.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Zombie
+[05Jan2025 21:28:28.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAVIDAD moved wrongly!
+[05Jan2025 21:29:52.595] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[05Jan2025 21:30:03.213] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
