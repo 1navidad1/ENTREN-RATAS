@@ -867,3 +867,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 20:40:22.226] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fritz'/4731, l='ServerLevel[world]', x=-145.50, y=64.07, z=244.70] died, message: 'Fritz went up in flames'
 [05Jan2025 20:40:22.228] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Fritz'/4731, l='ServerLevel[world]', x=-145.50, y=64.07, z=244.70] died: Fritz went up in flames
 [05Jan2025 20:41:40.931] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[05Jan2025 20:46:07.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 has made the advancement [Not Today, Thank You]
+[05Jan2025 20:46:57.535] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[05Jan2025 20:49:27.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 has reached the goal [Hunted]
+[05Jan2025 20:50:06.687] [Worker-Main-24/INFO] [ModernFix/]: Instantiating Mojang DFU
+[05Jan2025 20:51:29.157] [Worker-Main-24/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
