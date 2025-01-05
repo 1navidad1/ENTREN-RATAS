@@ -902,3 +902,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 22:11:15.848] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mansana_12[/127.147.255.185:33833] logged in with entity id 35813 at (-77.30000001192093, 38.0, 351.69999998807907)
 [05Jan2025 22:11:15.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
 [05Jan2025 22:11:15.931] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
+[05Jan2025 22:15:51.046] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[05Jan2025 22:23:07.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> amiguito engorde
