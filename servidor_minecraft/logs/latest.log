@@ -981,3 +981,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 23:11:55.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
 [05Jan2025 23:11:55.338] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
 [05Jan2025 23:13:22.817] [Worker-Main-25/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[05Jan2025 23:18:17.416] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/TweakType
+[05Jan2025 23:18:17.436] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonState
+[05Jan2025 23:18:17.438] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
+[05Jan2025 23:18:57.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Husk
+[05Jan2025 23:18:57.437] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_05.01.2025-23.18.57.dat
+[05Jan2025 23:19:01.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Husk
+[05Jan2025 23:19:41.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Husk
+[05Jan2025 23:19:46.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Corpse Fly
+[05Jan2025 23:19:46.244] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_05.01.2025-23.19.46.dat
+[05Jan2025 23:20:40.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Husk
+[05Jan2025 23:21:06.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Husk
+[05Jan2025 23:21:25.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Husk
+[05Jan2025 23:21:31.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Husk
+[05Jan2025 23:22:48.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Husk
+[05Jan2025 23:23:05.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mansana_12 lost connection: Disconnected
+[05Jan2025 23:23:05.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 left the game
+[05Jan2025 23:23:08.742] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mansana_12[/127.147.255.185:39745] logged in with entity id 75361 at (32.78941404125214, 85.61996113894642, 632.5542897919444)
+[05Jan2025 23:23:08.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
+[05Jan2025 23:23:08.759] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
+[05Jan2025 23:23:47.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Husk
+[05Jan2025 23:23:47.795] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_05.01.2025-23.23.47.dat

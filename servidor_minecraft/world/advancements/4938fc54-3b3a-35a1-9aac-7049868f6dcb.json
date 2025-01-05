@@ -565,6 +565,7 @@
       "minecraft:pillager": "2025-01-05 23:03:18 +0000",
       "minecraft:skeleton": "2025-01-04 22:18:16 +0000",
       "minecraft:spider": "2025-01-04 22:18:38 +0000",
+      "minecraft:husk": "2025-01-05 23:19:37 +0000",
       "minecraft:silverfish": "2025-01-05 16:39:57 +0000",
       "minecraft:zombie": "2024-12-30 02:12:49 +0000",
       "minecraft:zombie_villager": "2025-01-04 22:27:44 +0000"
@@ -2806,6 +2807,12 @@
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_ruined_building": "2025-01-05 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-01-05 23:19:18 +0000"
     },
     "done": true
   },
