@@ -910,3 +910,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 22:32:22.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD has made the advancement [Birds of a Feather]
 [05Jan2025 22:33:12.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
 [05Jan2025 22:33:12.446] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_05.01.2025-22.33.12.dat
+[05Jan2025 22:34:44.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was doomed to fall by Umvuthi, the Sunbird
+[05Jan2025 22:35:08.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was doomed to fall
+[05Jan2025 22:35:11.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Baby Skeleton
+[05Jan2025 22:35:11.784] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NAVIDAD with unique ID travelersbackpack.standard_05.01.2025-22.35.11.dat
+[05Jan2025 22:37:17.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BastiMC[/127.147.255.185:35115] logged in with entity id 47608 at (-372.7611366102568, 62.5625, 429.59081702465306)
+[05Jan2025 22:37:17.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC joined the game
+[05Jan2025 22:37:17.110] [Server thread/INFO] [Jade/]: Syncing config to BastiMC (4938fc54-3b3a-35a1-9aac-7049868f6dcb)
+[05Jan2025 22:38:27.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[05Jan2025 22:39:41.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[05Jan2025 22:40:04.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[05Jan2025 22:41:23.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[05Jan2025 22:42:56.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was doomed to fall by Umvuthi, the Sunbird
+[05Jan2025 22:43:09.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was burnt to a crisp whilst fighting Umvuthi, the Sunbird
