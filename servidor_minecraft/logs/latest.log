@@ -883,3 +883,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 16:31:32.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Zombie
 [05Jan2025 16:33:28.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC has made the advancement [Cover Me with Diamonds]
 [05Jan2025 16:33:59.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD has made the advancement [Acquire Hardware]
+[05Jan2025 16:34:36.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD has made the advancement [Diamonds!]
+[05Jan2025 16:40:12.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Silverqueen
+[05Jan2025 16:41:31.139] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[05Jan2025 16:43:10.455] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
