@@ -840,3 +840,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jan2025 20:20:15.987] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
 [05Jan2025 20:20:15.996] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
 [05Jan2025 20:20:16.119] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[05Jan2025 20:22:22.689] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[05Jan2025 20:25:47.881] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[05Jan2025 20:25:47.883] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[05Jan2025 20:27:38.993] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[05Jan2025 20:29:02.997] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
