@@ -1189,3 +1189,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 03:46:34.366] [Server thread/INFO] [Jade/]: Syncing config to BastiMC (4938fc54-3b3a-35a1-9aac-7049868f6dcb)
 [06Jan2025 03:47:28.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
 [06Jan2025 03:47:28.749] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_06.01.2025-03.47.28.dat
+[06Jan2025 03:48:52.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[06Jan2025 03:48:52.802] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_06.01.2025-03.48.52.dat
+[06Jan2025 03:49:18.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[06Jan2025 03:50:40.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was killed trying to hurt Skeleton
+[06Jan2025 03:50:40.358] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NAVIDAD with unique ID travelersbackpack.standard_06.01.2025-03.50.40.dat
+[06Jan2025 03:50:50.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC went off with a bang
+[06Jan2025 03:50:50.983] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_06.01.2025-03.50.50.dat
+[06Jan2025 03:51:38.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 has made the advancement [Cover Me with Diamonds]
+[06Jan2025 03:55:17.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC has made the advancement [Take Aim]
+[06Jan2025 03:55:37.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[06Jan2025 03:55:37.600] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_06.01.2025-03.55.37.dat
+[06Jan2025 03:55:48.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Skeleton
+[06Jan2025 03:55:48.898] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_06.01.2025-03.55.48.dat
+[06Jan2025 03:57:11.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[06Jan2025 03:57:51.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[06Jan2025 03:57:53.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Skeleton
+[06Jan2025 03:57:53.295] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_06.01.2025-03.57.53.dat
