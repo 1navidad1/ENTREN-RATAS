@@ -1360,3 +1360,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 04:29:26.233] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/46003, l='ServerLevel[world]', x=-880.43, y=156.00, z=1060.10] died: Gearling fell from a high place
 [06Jan2025 04:29:43.532] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/44403, l='ServerLevel[world]', x=-879.28, y=161.00, z=1059.96] died: Gearling hit the ground too hard
 [06Jan2025 04:35:52.133] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[06Jan2025 04:41:05.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD has made the advancement [Wax Off]
+[06Jan2025 04:45:39.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAVIDAD lost connection: Disconnected
+[06Jan2025 04:45:39.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD left the game
