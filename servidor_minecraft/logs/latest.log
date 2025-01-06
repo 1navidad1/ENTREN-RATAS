@@ -10,3 +10,8 @@
 [06Jan2025 00:09:22.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
 [06Jan2025 00:09:22.963] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
 [06Jan2025 00:11:59.286] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
+[06Jan2025 00:16:51.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BastiMC lost connection: Disconnected
+[06Jan2025 00:16:51.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC left the game
+[06Jan2025 00:23:20.690] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BastiMC[/127.147.255.185:56467] logged in with entity id 95219 at (-371.66373183721277, 62.5625, 428.3567598997784)
+[06Jan2025 00:23:20.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC joined the game
+[06Jan2025 00:23:20.747] [Server thread/INFO] [Jade/]: Syncing config to BastiMC (4938fc54-3b3a-35a1-9aac-7049868f6dcb)
