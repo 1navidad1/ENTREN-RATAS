@@ -2684,9 +2684,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/whos_the_pillager_now": {
+  "dungeons_enhanced:ahoy": {
     "criteria": {
-      "kill_pillager": "2025-01-05 23:52:35 +0000"
+      "entered_pirate_ship": "2025-01-05 23:46:17 +0000"
     },
     "done": true
   },
@@ -2702,9 +2702,9 @@
     },
     "done": true
   },
-  "dungeons_enhanced:ahoy": {
+  "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
-      "entered_pirate_ship": "2025-01-05 23:46:17 +0000"
+      "kill_pillager": "2025-01-05 23:52:35 +0000"
     },
     "done": true
   },
