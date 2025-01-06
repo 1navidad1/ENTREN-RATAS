@@ -1206,3 +1206,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 03:57:51.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
 [06Jan2025 03:57:53.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Skeleton
 [06Jan2025 03:57:53.295] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_06.01.2025-03.57.53.dat
+[06Jan2025 03:58:59.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[06Jan2025 03:59:36.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BastiMC lost connection: Disconnected
+[06Jan2025 03:59:36.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC left the game
+[06Jan2025 03:59:38.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mansana_12 lost connection: Disconnected
+[06Jan2025 03:59:38.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 left the game
+[06Jan2025 03:59:48.949] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mansana_12[/127.147.255.185:57233] logged in with entity id 21775 at (-877.1073445775698, 149.5, 1066.6987128234623)
+[06Jan2025 03:59:48.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
+[06Jan2025 03:59:48.981] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
+[06Jan2025 03:59:56.205] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BastiMC[/127.147.255.185:41361] logged in with entity id 22359 at (-875.3000000119209, 153.0, 1062.8772013700875)
+[06Jan2025 03:59:56.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC joined the game
+[06Jan2025 03:59:56.356] [Server thread/INFO] [Jade/]: Syncing config to BastiMC (4938fc54-3b3a-35a1-9aac-7049868f6dcb)
+[06Jan2025 03:59:58.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[06Jan2025 04:04:46.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was shot by Skeleton
+[06Jan2025 04:04:46.403] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_06.01.2025-04.04.46.dat
+[06Jan2025 04:04:50.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Gearling
+[06Jan2025 04:04:50.111] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_06.01.2025-04.04.50.dat
+[06Jan2025 04:04:53.692] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Anthony'/24557, l='ServerLevel[world]', x=-913.05, y=269.00, z=1017.89] died: Anthony fell from a high place
+[06Jan2025 04:06:40.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Gearling
+[06Jan2025 04:06:40.818] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_06.01.2025-04.06.40.dat
+[06Jan2025 04:06:42.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/25717, l='ServerLevel[world]', x=-884.23, y=173.00, z=1062.30] died: Gearling was shot by Skeleton
+[06Jan2025 04:07:08.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Gearling
+[06Jan2025 04:07:38.411] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/25930, l='ServerLevel[world]', x=-876.63, y=173.00, z=1055.89] died: Gearling fell from a high place
+[06Jan2025 04:08:15.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Gearling
+[06Jan2025 04:08:39.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Gearling

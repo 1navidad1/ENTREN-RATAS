@@ -3217,6 +3217,72 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-01-06 03:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-01-06 03:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-01-06 03:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-01-06 03:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-01-06 03:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-01-06 03:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-01-06 03:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-01-06 03:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-01-06 03:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-01-06 03:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-01-06 03:52:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-01-06 03:53:11 +0000"
@@ -3229,21 +3295,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-01-06 03:48:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-01-06 03:53:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs": {
-    "criteria": {
-      "has_waxed_exposed_cut_copper": "2025-01-06 03:50:14 +0000"
     },
     "done": true
   },
@@ -3253,39 +3307,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_cut_copper": "2025-01-06 03:48:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mud_brick_stairs": {
     "criteria": {
       "has_mud_bricks": "2025-01-06 03:53:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
-    "criteria": {
-      "has_waxed_cut_copper": "2025-01-06 03:48:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_cut_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_exposed_cut_copper": "2025-01-06 03:50:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_cut_copper": "2025-01-06 03:48:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_cut_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_exposed_cut_copper": "2025-01-06 03:50:14 +0000"
     },
     "done": true
   },
@@ -3295,27 +3319,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_bricks": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_packed_mud": "2025-01-06 03:52:54 +0000"
+      "shot_arrow": "2025-01-06 03:55:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
-      "has_waxed_exposed_cut_copper": "2025-01-06 03:50:14 +0000"
+      "has_waxed_oxidized_copper": "2025-01-06 04:00:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
-      "has_peony": "2025-01-06 03:48:11 +0000"
+      "has_waxed_oxidized_copper": "2025-01-06 04:00:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
     "criteria": {
-      "has_waxed_cut_copper": "2025-01-06 03:48:29 +0000"
+      "has_waxed_oxidized_copper": "2025-01-06 04:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-01-06 04:00:41 +0000"
     },
     "done": true
   },
