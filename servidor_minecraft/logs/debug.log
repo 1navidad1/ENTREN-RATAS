@@ -10030,3 +10030,648 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 03:26:36.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_6
 [06Jan2025 03:26:36.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
 [06Jan2025 03:26:40.982] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[06Jan2025 03:29:28.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_3
+[06Jan2025 03:29:28.049] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_1
+[06Jan2025 03:29:28.061] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_4
+[06Jan2025 03:29:28.075] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_2
+[06Jan2025 03:29:32.379] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[06Jan2025 03:29:32.379] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[06Jan2025 03:29:32.379] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[06Jan2025 03:29:32.380] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[06Jan2025 03:29:32.380] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[06Jan2025 03:29:32.380] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[06Jan2025 03:29:32.380] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[06Jan2025 03:29:32.380] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[06Jan2025 03:29:32.380] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[06Jan2025 03:29:32.380] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[06Jan2025 03:29:32.380] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[06Jan2025 03:29:32.381] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[06Jan2025 03:29:32.381] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[06Jan2025 03:29:32.381] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[06Jan2025 03:29:32.381] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[06Jan2025 03:29:32.381] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[06Jan2025 03:29:32.381] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[06Jan2025 03:29:32.381] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[06Jan2025 03:29:32.381] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[06Jan2025 03:29:32.381] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[06Jan2025 03:29:32.382] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[06Jan2025 03:29:32.382] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[06Jan2025 03:29:32.382] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[06Jan2025 03:29:32.382] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[06Jan2025 03:29:32.382] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[06Jan2025 03:29:32.382] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[06Jan2025 03:29:32.382] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[06Jan2025 03:29:32.382] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[06Jan2025 03:29:32.382] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[06Jan2025 03:29:32.383] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[06Jan2025 03:29:32.383] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[06Jan2025 03:29:32.383] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[06Jan2025 03:29:32.383] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[06Jan2025 03:29:32.383] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[06Jan2025 03:29:32.383] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[06Jan2025 03:29:32.383] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[06Jan2025 03:29:32.383] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[06Jan2025 03:29:32.384] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[06Jan2025 03:29:32.384] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[06Jan2025 03:29:32.384] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[06Jan2025 03:29:32.384] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[06Jan2025 03:29:32.384] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[06Jan2025 03:29:32.384] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[06Jan2025 03:29:32.384] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[06Jan2025 03:29:32.384] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[06Jan2025 03:29:32.384] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[06Jan2025 03:29:32.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[06Jan2025 03:29:32.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[06Jan2025 03:29:32.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[06Jan2025 03:29:32.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[06Jan2025 03:29:32.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[06Jan2025 03:29:32.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[06Jan2025 03:29:32.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[06Jan2025 03:29:32.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[06Jan2025 03:29:32.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[06Jan2025 03:29:32.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[06Jan2025 03:29:32.385] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[06Jan2025 03:29:32.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[06Jan2025 03:29:32.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[06Jan2025 03:29:32.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[06Jan2025 03:29:32.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[06Jan2025 03:29:32.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[06Jan2025 03:29:32.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[06Jan2025 03:29:32.386] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[06Jan2025 03:29:32.387] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[06Jan2025 03:29:32.387] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[06Jan2025 03:29:32.387] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[06Jan2025 03:29:32.387] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[06Jan2025 03:29:32.387] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[06Jan2025 03:29:32.387] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[06Jan2025 03:29:32.387] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[06Jan2025 03:29:32.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 03:29:32.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 03:29:37.089] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[06Jan2025 03:29:59.394] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[06Jan2025 03:29:59.871] [Worker-Main-22/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[06Jan2025 03:29:59.873] [Worker-Main-22/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[06Jan2025 03:29:59.879] [Worker-Main-22/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin from mod radium: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[06Jan2025 03:29:59.967] [Worker-Main-22/DEBUG] [mixin/]: Mixing accessor.ChunkRegionAccessor from villagesandpillages-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[06Jan2025 03:29:59.969] [Worker-Main-22/DEBUG] [mixin/]: Mixing SpawnerBlockListener from brutalbosses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[06Jan2025 03:29:59.969] [Worker-Main-22/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener from mod brutalbosses: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[06Jan2025 03:29:59.975] [Worker-Main-22/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mvs-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[06Jan2025 03:30:00.038] [Worker-Main-22/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin from mod radium->@Inject::init(Lnet/minecraft/server/level/ServerLevel;Ljava/util/List;Lnet/minecraft/world/level/chunk/ChunkStatus;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[06Jan2025 03:30:00.038] [Worker-Main-22/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin from mod radium->@Inject::init(Lnet/minecraft/server/level/ServerLevel;Ljava/util/List;Lnet/minecraft/world/level/chunk/ChunkStatus;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[06Jan2025 03:30:00.039] [Worker-Main-22/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin from mod radium->@Inject::init(Lnet/minecraft/server/level/ServerLevel;Ljava/util/List;Lnet/minecraft/world/level/chunk/ChunkStatus;ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[06Jan2025 03:30:00.039] [Worker-Main-22/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener from mod brutalbosses->@Inject::onGetTE(Lnet/minecraft/core/BlockPos;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[06Jan2025 03:30:00.040] [Worker-Main-22/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener from mod brutalbosses->@Inject::onGetTE(Lnet/minecraft/core/BlockPos;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[06Jan2025 03:30:00.040] [Worker-Main-22/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener from mod brutalbosses->@Inject::onGetTE(Lnet/minecraft/core/BlockPos;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[06Jan2025 03:30:00.040] [Worker-Main-22/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener from mod brutalbosses->@Inject::onGetTE(Lnet/minecraft/core/BlockPos;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[06Jan2025 03:30:00.041] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[06Jan2025 03:30:00.408] [Worker-Main-22/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from fabric-biome-api-v1.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[06Jan2025 03:30:00.408] [Worker-Main-22/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[06Jan2025 03:30:00.422] [Worker-Main-22/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1->@Inject::init(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[06Jan2025 03:30:00.422] [Worker-Main-22/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1->@Inject::init(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[06Jan2025 03:30:00.422] [Worker-Main-22/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1->@Inject::init(ILnet/minecraft/world/level/levelgen/RandomState;IILnet/minecraft/world/level/levelgen/NoiseSettings;Lnet/minecraft/world/level/levelgen/DensityFunctions$BeardifierOrMarker;Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;Lnet/minecraft/world/level/levelgen/Aquifer$FluidPicker;Lnet/minecraft/world/level/levelgen/blending/Blender;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[06Jan2025 03:30:00.422] [Worker-Main-22/DEBUG] [mixin/]: fabric-biome-api-v1.mixins.json:ChunkNoiseSamplerMixin from mod fabric_biome_api_v1->@Inject::createMultiNoiseSampler(Lnet/minecraft/world/level/levelgen/NoiseRouter;Ljava/util/List;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[06Jan2025 03:30:00.445] [Worker-Main-22/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[06Jan2025 03:30:00.451] [Worker-Main-22/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[06Jan2025 03:30:00.451] [Worker-Main-22/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[06Jan2025 03:30:00.452] [Worker-Main-22/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[06Jan2025 03:30:00.492] [Worker-Main-22/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi->@Inject::yungsapi_supportCustomTerrainAdaptations(Lnet/minecraft/world/level/StructureManager;Lnet/minecraft/world/level/ChunkPos;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[06Jan2025 03:30:00.492] [Worker-Main-22/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi->@Inject::yungsapi_calculateDensity(Lnet/minecraft/world/level/levelgen/DensityFunction$FunctionContext;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[06Jan2025 03:30:00.494] [Worker-Main-22/DEBUG] [mixin/]: mixins.irons_spellbooks.json:BeardifierMixin from mod irons_spellbooks->@Inject::injectCustomTerrainAdaptation(Lnet/minecraft/world/level/ChunkPos;Lit/unimi/dsi/fastutil/objects/ObjectList;IILit/unimi/dsi/fastutil/objects/ObjectList;Lnet/minecraft/world/level/levelgen/structure/StructureStart;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
+[06Jan2025 03:30:00.495] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[06Jan2025 03:30:00.495] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[06Jan2025 03:30:00.619] [Worker-Main-22/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[06Jan2025 03:30:16.081] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:miners_house
+[06Jan2025 03:30:18.036] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:jungle_monument
+[06Jan2025 03:30:26.841] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[06Jan2025 03:30:26.860] [Worker-Main-22/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[06Jan2025 03:30:26.863] [Worker-Main-22/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[06Jan2025 03:30:26.905] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_1 is being run through DFU (hash f83a08665efb18a957ad08768d4992b244d90f08eb2106c3e758a0663b5bce69), this will cause launch time delays
+[06Jan2025 03:30:26.905] [Worker-Main-22/INFO] [ModernFix/]: Instantiating Mojang DFU
+[06Jan2025 03:30:28.492] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_4 is being run through DFU (hash a15946f6340c8b1ac52809325a6588f53b27f1948d22d65d91cbd84d289e1c0c), this will cause launch time delays
+[06Jan2025 03:30:28.548] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_5 is being run through DFU (hash 942da1f93d36cec1108eee837cd4f83ef594a7561a494a3f2907926d63f416f2), this will cause launch time delays
+[06Jan2025 03:30:28.593] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_pillager_normal_0 is being run through DFU (hash 3bfc8ff3f3ebe009489efe9360b216a449859cea932618c5b7f7b07ed916e677), this will cause launch time delays
+[06Jan2025 03:30:28.975] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_5 is being run through DFU (hash b16287199ebfbf48f13985ac661a303cff3f3b751066c1a42639e2363467086e), this will cause launch time delays
+[06Jan2025 03:30:29.019] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_tent_1 is being run through DFU (hash d071b56dfb91802d6e283fcc6fe89bdd362f5d2f7ac61c6bfd8cf9d3b46e72cb), this will cause launch time delays
+[06Jan2025 03:30:29.050] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_tent_3 is being run through DFU (hash 5af8fe5a34f5e8167681b21570c8d42e9103c66e0efab3011a04021c1f279f1a), this will cause launch time delays
+[06Jan2025 03:30:29.078] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_tent_0 is being run through DFU (hash 7215f38da0a4e40c5e3be9df2d522385c374364fd66a15dc8268b8b24f3ab0bf), this will cause launch time delays
+[06Jan2025 03:30:29.316] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_tent_2 is being run through DFU (hash 464b12e8377965d0b6d5137e86de34708c3a05f3168a57506f77385520d0e222), this will cause launch time delays
+[06Jan2025 03:30:29.365] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_3 is being run through DFU (hash 8e2f5381d72ddfcfab26d74f2027172086828df75d6022dd0914e8d9b6cbeb54), this will cause launch time delays
+[06Jan2025 03:30:29.389] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_3 is being run through DFU (hash 84becc53712d1abd55fa171bf28df8aa92cf0cc5fefbe440f611c38461a1ac32), this will cause launch time delays
+[06Jan2025 03:30:29.407] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_0 is being run through DFU (hash 9e48f551458ddfcade896d7ca305b591643588d914e715ce873200d9884cb6fe), this will cause launch time delays
+[06Jan2025 03:30:29.421] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_2 is being run through DFU (hash 1d89d7a684d39b030355334cc2b0c16afc3437b8dacdba4ea1580a6bea3dac51), this will cause launch time delays
+[06Jan2025 03:30:29.453] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_0 is being run through DFU (hash bca7da9b36eca8f10a5ad8a2a45935fca02a69a04d38250f3e1e572d5665f655), this will cause launch time delays
+[06Jan2025 03:30:29.476] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_1 is being run through DFU (hash 01652cf47c7082e9f19c45124baadfe81ef490bca3ad6175714197c8462db8a1), this will cause launch time delays
+[06Jan2025 03:30:29.495] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_pillager_multishot_0 is being run through DFU (hash 2f6487228a3805c0d7b00c112bef4ac8f35a296c762be52dea96a6c4a594531c), this will cause launch time delays
+[06Jan2025 03:30:29.542] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_vindicator_normal_0 is being run through DFU (hash 9a942708f01af3adf4474a483508d1e8ec94602d50f0443a647aa229bb5cbbcc), this will cause launch time delays
+[06Jan2025 03:30:29.606] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_4 is being run through DFU (hash aaa608531a138f09a33e86da9867a8d90f3d6753090fa2fd9e1da696c46be10e), this will cause launch time delays
+[06Jan2025 03:30:29.609] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_6 is being run through DFU (hash a9be9a543f6d46326b4730af976341e8d5312d2214944435878a24cce93506a2), this will cause launch time delays
+[06Jan2025 03:30:29.611] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_2 is being run through DFU (hash 6477a7cd80a030726efdea868090e5e04e92e17689fdea73f4f8f83e5882c523), this will cause launch time delays
+[06Jan2025 03:30:31.107] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[06Jan2025 03:30:33.690] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[06Jan2025 03:30:33.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC fell from a high place
+[06Jan2025 03:30:33.720] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_06.01.2025-03.30.33.dat
+[06Jan2025 03:30:39.082] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[06Jan2025 03:30:39.101] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[06Jan2025 03:30:39.102] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[06Jan2025 03:30:39.102] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[06Jan2025 03:30:39.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[06Jan2025 03:30:39.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[06Jan2025 03:30:39.104] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[06Jan2025 03:30:39.105] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[06Jan2025 03:30:39.106] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[06Jan2025 03:30:59.899] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_passage_1
+[06Jan2025 03:30:59.907] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_1
+[06Jan2025 03:30:59.908] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_terminator_1
+[06Jan2025 03:30:59.909] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_0
+[06Jan2025 03:31:00.026] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_4
+[06Jan2025 03:31:23.361] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[06Jan2025 03:31:23.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> bisteck mc
+[06Jan2025 03:31:44.808] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/Action
+[06Jan2025 03:31:44.810] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
+[06Jan2025 03:31:44.812] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
+[06Jan2025 03:31:44.814] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 40
+[06Jan2025 03:31:44.818] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler
+[06Jan2025 03:31:44.829] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@1ea10c8d, b=45, e=45}, net.minecraft.world.inventory.ResultContainer@63729d4a=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@63729d4a, c=net.minecraft.world.inventory.InventoryMenu@1ea10c8d, b=0, e=0}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@1ea10c8d, b=9, e=35}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@1ea10c8d, b=36, e=44}, net.minecraft.world.inventory.TransientCraftingContainer@105e94a1=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@105e94a1, c=net.minecraft.world.inventory.InventoryMenu@1ea10c8d, b=1, e=4}}
+[06Jan2025 03:31:44.830] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@1ea10c8d, b=36, e=44}
+[06Jan2025 03:31:44.835] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 40
+[06Jan2025 03:31:44.836] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@1ea10c8d, b=45, e=45}, net.minecraft.world.inventory.ResultContainer@63729d4a=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@63729d4a, c=net.minecraft.world.inventory.InventoryMenu@1ea10c8d, b=0, e=0}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@1ea10c8d, b=9, e=35}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@1ea10c8d, b=36, e=44}, net.minecraft.world.inventory.TransientCraftingContainer@105e94a1=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@105e94a1, c=net.minecraft.world.inventory.InventoryMenu@1ea10c8d, b=1, e=4}}
+[06Jan2025 03:31:44.836] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@1ea10c8d, b=36, e=44}
+[06Jan2025 03:31:44.892] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 40
+[06Jan2025 03:31:44.893] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@1ea10c8d, b=45, e=45}, net.minecraft.world.inventory.ResultContainer@63729d4a=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@63729d4a, c=net.minecraft.world.inventory.InventoryMenu@1ea10c8d, b=0, e=0}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@1ea10c8d, b=9, e=35}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@1ea10c8d, b=36, e=44}, net.minecraft.world.inventory.TransientCraftingContainer@105e94a1=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@105e94a1, c=net.minecraft.world.inventory.InventoryMenu@1ea10c8d, b=1, e=4}}
+[06Jan2025 03:31:44.893] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@1ea10c8d, b=36, e=44}
+[06Jan2025 03:31:47.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[06Jan2025 03:31:47.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_1
+[06Jan2025 03:31:47.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_4
+[06Jan2025 03:31:47.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_5
+[06Jan2025 03:31:47.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_pillager_normal_0
+[06Jan2025 03:31:47.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_5
+[06Jan2025 03:31:47.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_0
+[06Jan2025 03:31:47.863] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_3
+[06Jan2025 03:31:47.863] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_1
+[06Jan2025 03:31:47.864] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_0
+[06Jan2025 03:31:47.864] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_pillager_multishot_0
+[06Jan2025 03:31:47.865] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_2
+[06Jan2025 03:31:47.866] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_vindicator_normal_0
+[06Jan2025 03:31:47.867] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_1
+[06Jan2025 03:31:47.868] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_3
+[06Jan2025 03:31:54.369] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[06Jan2025 03:31:54.394] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[06Jan2025 03:31:54.404] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[06Jan2025 03:31:54.411] [Worker-Main-38/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_3_resistance is being run through DFU (hash 31d70c13becb5994ae3d8506fb89bcbfb627317d737970714740a759f8d5ae3e), this will cause launch time delays
+[06Jan2025 03:31:54.460] [Worker-Main-38/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_1_regen is being run through DFU (hash b0fbd23a1fcc0edd723dcc70fe49a848056f159acd67c0c5b8355404aae3ea35), this will cause launch time delays
+[06Jan2025 03:31:54.495] [Worker-Main-38/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_2_wither is being run through DFU (hash 90dec482e3981c736d3dcd45680ac122a284bce1164192f739d37f6d8b89ea28), this will cause launch time delays
+[06Jan2025 03:31:54.514] [Worker-Main-38/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_0_speed is being run through DFU (hash 08c7dbcac4361b53f887a0b139a27993c17934fa5265d08549feddfd41f6b04d), this will cause launch time delays
+[06Jan2025 03:31:54.527] [Worker-Main-38/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_4_haste is being run through DFU (hash 613f92c92d7def00c8677d40d9d4b5d9ac159ea26dcea3f4f197c5e275fdbb65), this will cause launch time delays
+[06Jan2025 03:32:02.857] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:desert_tomb/root
+[06Jan2025 03:32:03.467] [Worker-Main-38/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-12, y=-32, z=1006} at Chest with:minecraft:chests/simple_dungeon
+[06Jan2025 03:32:20.151] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[06Jan2025 03:32:24.713] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/acacia_log_pile
+[06Jan2025 03:32:24.716] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:miners_house
+[06Jan2025 03:32:25.008] [Worker-Main-38/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-318, y=-11, z=876} at Chest with:minecraft:chests/simple_dungeon
+[06Jan2025 03:32:25.755] [Worker-Main-38/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-303, y=8, z=1018} at Chest with:minecraft:chests/simple_dungeon
+[06Jan2025 03:32:32.263] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:jungle_monument
+[06Jan2025 03:32:33.520] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[06Jan2025 03:32:37.346] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_entrance_0
+[06Jan2025 03:32:37.350] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_passage_3
+[06Jan2025 03:32:37.396] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_large_room_2
+[06Jan2025 03:32:37.407] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_passage_0
+[06Jan2025 03:32:37.409] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_passage_4
+[06Jan2025 03:32:37.416] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_large_room_1
+[06Jan2025 03:32:37.432] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_large_room_0
+[06Jan2025 03:32:37.447] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_large_room_3
+[06Jan2025 03:32:37.459] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_passage_2
+[06Jan2025 03:32:37.464] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_0
+[06Jan2025 03:32:37.469] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_2
+[06Jan2025 03:32:37.481] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_5
+[06Jan2025 03:32:37.493] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_8
+[06Jan2025 03:32:37.497] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_3
+[06Jan2025 03:32:37.509] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_7
+[06Jan2025 03:32:37.525] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_1
+[06Jan2025 03:32:37.528] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_terminator_0
+[06Jan2025 03:32:37.552] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_6
+[06Jan2025 03:32:37.557] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_9
+[06Jan2025 03:32:37.563] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_spawner_0
+[06Jan2025 03:32:37.604] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_spawner_1
+[06Jan2025 03:32:37.613] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_spawner_2
+[06Jan2025 03:32:37.615] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_3
+[06Jan2025 03:32:37.623] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_0
+[06Jan2025 03:32:37.627] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_4
+[06Jan2025 03:32:37.649] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_4
+[06Jan2025 03:32:37.670] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_3
+[06Jan2025 03:32:37.795] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_1
+[06Jan2025 03:32:37.801] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_2
+[06Jan2025 03:32:37.825] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_2
+[06Jan2025 03:32:42.578] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of theorcs:orc_camp
+[06Jan2025 03:32:43.473] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/boulder
+[06Jan2025 03:32:46.735] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:champions_graves_main
+[06Jan2025 03:32:46.936] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:cathedral_of_resurrection
+[06Jan2025 03:32:47.602] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:pillager_outpost/feature_cage1
+[06Jan2025 03:32:54.135] [Worker-Main-22/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=19, y=-34, z=1154} at Chest with:minecraft:chests/simple_dungeon
+[06Jan2025 03:32:56.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 has made the advancement [Masquerade]
+[06Jan2025 03:33:12.270] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[06Jan2025 03:33:15.332] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[06Jan2025 03:33:15.358] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[06Jan2025 03:33:15.360] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[06Jan2025 03:33:15.367] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[06Jan2025 03:33:15.378] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[06Jan2025 03:33:15.386] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[06Jan2025 03:33:15.396] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[06Jan2025 03:33:15.426] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[06Jan2025 03:33:15.428] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[06Jan2025 03:33:15.447] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_0 is being run through DFU (hash f1300531218d9ff732065c9f8ca642b4b44a6e3f501632ab0e1c61e6acdb4bfa), this will cause launch time delays
+[06Jan2025 03:33:15.608] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[06Jan2025 03:33:15.618] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[06Jan2025 03:33:15.634] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[06Jan2025 03:33:15.659] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[06Jan2025 03:33:18.559] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_well
+[06Jan2025 03:33:19.399] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[06Jan2025 03:33:22.440] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/spruce_well
+[06Jan2025 03:33:22.451] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/jungle_well
+[06Jan2025 03:33:22.456] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[06Jan2025 03:33:22.460] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/oak_well
+[06Jan2025 03:33:22.464] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/dark_oak_well
+[06Jan2025 03:33:22.469] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_copper_well
+[06Jan2025 03:33:22.473] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/snowy_well
+[06Jan2025 03:33:22.487] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/desert_well
+[06Jan2025 03:33:22.492] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[06Jan2025 03:33:22.499] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/birch_well
+[06Jan2025 03:33:22.504] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/acacia_well
+[06Jan2025 03:33:32.407] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[06Jan2025 03:33:32.860] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:desert_temple/main
+[06Jan2025 03:33:33.416] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[06Jan2025 03:33:41.850] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[06Jan2025 03:33:45.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[06Jan2025 03:33:45.922] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[06Jan2025 03:33:45.924] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_1
+[06Jan2025 03:33:45.925] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_2
+[06Jan2025 03:33:45.925] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_extend
+[06Jan2025 03:33:45.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_3
+[06Jan2025 03:33:45.927] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_2
+[06Jan2025 03:33:45.927] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_1
+[06Jan2025 03:33:45.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_2
+[06Jan2025 03:33:45.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_1
+[06Jan2025 03:33:45.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[06Jan2025 03:33:45.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[06Jan2025 03:33:45.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[06Jan2025 03:33:45.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[06Jan2025 03:33:46.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[06Jan2025 03:33:48.846] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[06Jan2025 03:33:48.849] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[06Jan2025 03:33:48.849] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[06Jan2025 03:33:48.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[06Jan2025 03:33:48.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[06Jan2025 03:33:48.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[06Jan2025 03:33:48.851] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[06Jan2025 03:33:48.851] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[06Jan2025 03:33:48.851] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[06Jan2025 03:34:01.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> bisteck
+[06Jan2025 03:34:06.236] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[06Jan2025 03:34:08.385] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[06Jan2025 03:34:16.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[06Jan2025 03:34:16.215] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[06Jan2025 03:34:16.231] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/acacia_log_pile
+[06Jan2025 03:34:16.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[06Jan2025 03:34:16.310] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[06Jan2025 03:34:16.314] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[06Jan2025 03:34:16.314] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[06Jan2025 03:34:16.327] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_0
+[06Jan2025 03:34:16.329] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[06Jan2025 03:34:16.441] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_entrance_0
+[06Jan2025 03:34:16.445] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_passage_1
+[06Jan2025 03:34:16.501] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_passage_2
+[06Jan2025 03:34:16.504] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_passage_0
+[06Jan2025 03:34:16.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_passage_4
+[06Jan2025 03:34:16.508] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_0
+[06Jan2025 03:34:16.517] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_spawner_0
+[06Jan2025 03:34:16.519] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_1
+[06Jan2025 03:34:16.524] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_2
+[06Jan2025 03:34:16.525] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_1
+[06Jan2025 03:34:16.563] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_large_room_2
+[06Jan2025 03:34:16.575] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_4
+[06Jan2025 03:34:16.576] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_spawner_1
+[06Jan2025 03:34:16.584] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_3
+[06Jan2025 03:34:16.586] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_passage_3
+[06Jan2025 03:34:16.596] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_large_room_3
+[06Jan2025 03:34:16.598] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_2
+[06Jan2025 03:34:16.598] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_spawner_2
+[06Jan2025 03:34:16.600] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_7
+[06Jan2025 03:34:16.600] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_4
+[06Jan2025 03:34:16.601] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_3
+[06Jan2025 03:34:16.607] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_large_room_1
+[06Jan2025 03:34:16.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_0
+[06Jan2025 03:34:16.616] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_6
+[06Jan2025 03:34:16.618] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_3
+[06Jan2025 03:34:16.621] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_5
+[06Jan2025 03:34:16.624] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_4
+[06Jan2025 03:34:16.626] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_8
+[06Jan2025 03:34:16.628] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_0
+[06Jan2025 03:34:16.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_2
+[06Jan2025 03:34:16.631] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_corridor_terminator_1
+[06Jan2025 03:34:16.635] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_catwalk_corridor_1
+[06Jan2025 03:34:16.638] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_room_9
+[06Jan2025 03:34:17.918] [Worker-Main-22/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-437, y=-9, z=1159} at Chest with:minecraft:chests/simple_dungeon
+[06Jan2025 03:34:24.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:pillager_outpost/feature_cage1
+[06Jan2025 03:34:25.026] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[06Jan2025 03:34:25.026] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_1
+[06Jan2025 03:34:25.027] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_4
+[06Jan2025 03:34:25.027] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_5
+[06Jan2025 03:34:25.027] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_pillager_normal_0
+[06Jan2025 03:34:25.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_5
+[06Jan2025 03:34:25.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_0
+[06Jan2025 03:34:25.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_3
+[06Jan2025 03:34:25.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_1
+[06Jan2025 03:34:25.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_0
+[06Jan2025 03:34:25.030] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_pillager_multishot_0
+[06Jan2025 03:34:25.030] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_2
+[06Jan2025 03:34:25.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_vindicator_normal_0
+[06Jan2025 03:34:25.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_1
+[06Jan2025 03:34:25.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_3
+[06Jan2025 03:34:26.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[06Jan2025 03:34:26.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_3_resistance
+[06Jan2025 03:34:32.404] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[06Jan2025 03:34:32.405] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[06Jan2025 03:34:32.405] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[06Jan2025 03:34:32.405] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[06Jan2025 03:34:32.405] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[06Jan2025 03:34:32.405] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[06Jan2025 03:34:32.405] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[06Jan2025 03:34:32.405] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[06Jan2025 03:34:32.405] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[06Jan2025 03:34:32.406] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[06Jan2025 03:34:32.406] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[06Jan2025 03:34:32.406] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[06Jan2025 03:34:32.406] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[06Jan2025 03:34:32.406] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[06Jan2025 03:34:32.408] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[06Jan2025 03:34:32.408] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[06Jan2025 03:34:32.408] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[06Jan2025 03:34:32.408] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[06Jan2025 03:34:32.408] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[06Jan2025 03:34:32.409] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[06Jan2025 03:34:32.411] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[06Jan2025 03:34:32.411] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[06Jan2025 03:34:32.411] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[06Jan2025 03:34:32.411] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[06Jan2025 03:34:32.412] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[06Jan2025 03:34:32.412] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[06Jan2025 03:34:32.412] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[06Jan2025 03:34:32.412] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[06Jan2025 03:34:32.412] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[06Jan2025 03:34:32.413] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[06Jan2025 03:34:32.413] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[06Jan2025 03:34:32.413] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[06Jan2025 03:34:32.413] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[06Jan2025 03:34:32.414] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[06Jan2025 03:34:32.415] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[06Jan2025 03:34:32.416] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[06Jan2025 03:34:32.416] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[06Jan2025 03:34:32.416] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[06Jan2025 03:34:32.417] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[06Jan2025 03:34:32.417] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[06Jan2025 03:34:32.417] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[06Jan2025 03:34:32.418] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[06Jan2025 03:34:32.418] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[06Jan2025 03:34:32.419] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[06Jan2025 03:34:32.419] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[06Jan2025 03:34:32.419] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[06Jan2025 03:34:32.419] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[06Jan2025 03:34:32.420] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[06Jan2025 03:34:32.420] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[06Jan2025 03:34:32.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[06Jan2025 03:34:32.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[06Jan2025 03:34:32.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[06Jan2025 03:34:32.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[06Jan2025 03:34:32.421] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[06Jan2025 03:34:32.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[06Jan2025 03:34:32.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[06Jan2025 03:34:32.422] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[06Jan2025 03:34:32.423] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[06Jan2025 03:34:32.423] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[06Jan2025 03:34:32.424] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[06Jan2025 03:34:32.425] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[06Jan2025 03:34:32.426] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[06Jan2025 03:34:32.426] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[06Jan2025 03:34:32.426] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[06Jan2025 03:34:32.426] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[06Jan2025 03:34:32.426] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[06Jan2025 03:34:32.426] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[06Jan2025 03:34:32.426] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[06Jan2025 03:34:32.426] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[06Jan2025 03:34:32.426] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[06Jan2025 03:34:32.426] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[06Jan2025 03:34:32.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 03:34:32.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 03:34:35.937] [Worker-Main-22/DEBUG] [ModernFix/]: Structure mvs:well/wells/mushroom_well is being run through DFU (hash 4d8932d5349469a6376ce40be6a0c359fd0a704dad41aeb513bf83ff455d3c59), this will cause launch time delays
+[06Jan2025 03:34:37.968] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[06Jan2025 03:34:37.994] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of theorcs:orc_camp
+[06Jan2025 03:34:39.750] [Worker-Main-38/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-544, y=63, z=831} at Chest with:minecraft:chests/simple_dungeon
+[06Jan2025 03:34:50.890] [Worker-Main-38/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-548, y=-2, z=1011} at Chest with:minecraft:chests/simple_dungeon
+[06Jan2025 03:35:26.874] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:miners_house
+[06Jan2025 03:35:57.465] [Worker-Main-38/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-610, y=53, z=741} at Chest with:minecraft:chests/simple_dungeon
+[06Jan2025 03:35:59.580] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[06Jan2025 03:35:59.587] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_1
+[06Jan2025 03:35:59.588] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[06Jan2025 03:35:59.589] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[06Jan2025 03:35:59.591] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[06Jan2025 03:35:59.593] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[06Jan2025 03:35:59.602] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/balcony
+[06Jan2025 03:35:59.604] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[06Jan2025 03:35:59.606] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[06Jan2025 03:35:59.608] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[06Jan2025 03:35:59.610] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_spiral_stairs
+[06Jan2025 03:35:59.610] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[06Jan2025 03:35:59.611] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[06Jan2025 03:35:59.615] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[06Jan2025 03:35:59.618] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[06Jan2025 03:35:59.620] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_2
+[06Jan2025 03:35:59.623] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[06Jan2025 03:35:59.628] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[06Jan2025 03:35:59.640] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[06Jan2025 03:35:59.646] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[06Jan2025 03:35:59.648] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[06Jan2025 03:35:59.649] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[06Jan2025 03:35:59.660] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[06Jan2025 03:35:59.669] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[06Jan2025 03:35:59.671] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[06Jan2025 03:35:59.672] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[06Jan2025 03:35:59.673] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/armorstand
+[06Jan2025 03:35:59.675] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[06Jan2025 03:35:59.677] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[06Jan2025 03:35:59.687] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[06Jan2025 03:36:46.117] [Worker-Main-38/DEBUG] [ModernFix/]: Structure dungeons_enhanced:tower_of_the_undead/small is being run through DFU (hash 5731a464d489e88ff15eb1d55485762703a6342819f911353e823262e102986c), this will cause launch time delays
+[06Jan2025 03:36:59.159] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[06Jan2025 03:37:11.067] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[06Jan2025 03:37:35.675] [Worker-Main-38/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-731, y=45, z=1067} at Chest with:minecraft:chests/simple_dungeon
+[06Jan2025 03:37:36.018] [Worker-Main-38/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:shulkerboss at BlockPos{x=-731, y=34, z=775} at Chest with:minecraft:chests/simple_dungeon
+[06Jan2025 03:37:39.074] [Worker-Main-22/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-740, y=-10, z=672} at Chest with:minecraft:chests/simple_dungeon
+[06Jan2025 03:37:39.276] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_start_0 is being run through DFU (hash 82efdd0b4cee90e5e68e22a1ff771036a5dd355f840f9a56c321423a5883e5fa), this will cause launch time delays
+[06Jan2025 03:37:39.457] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_5 is being run through DFU (hash 0e89ce83be28c41d0cc213ecba89e4f862bf04e1989d313ac7fa8608d5869b49), this will cause launch time delays
+[06Jan2025 03:37:39.498] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_7 is being run through DFU (hash 652d1e3617b3902f206071b2098dc98be48710313011d19905671aa287f17974), this will cause launch time delays
+[06Jan2025 03:37:39.516] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_18 is being run through DFU (hash 19c8e31a2f67bbad0a46fec6e195c0c4b1c298c181700d0ba525c957b72d891e), this will cause launch time delays
+[06Jan2025 03:37:39.518] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_16 is being run through DFU (hash 9e1656b8099e1428e186b406ed08dbddde75a111885e775430862fc2ae6a3f8a), this will cause launch time delays
+[06Jan2025 03:37:39.524] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_13 is being run through DFU (hash 48413540dc56bd5c9ad8975c8cd999748c520b5ac7c7675503a75c76f8285ff1), this will cause launch time delays
+[06Jan2025 03:37:39.529] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_6 is being run through DFU (hash fd20ef4e4d073ba113a5c6479f51e1774a6f91835d0c5d5d672c380febe8dc82), this will cause launch time delays
+[06Jan2025 03:37:39.539] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_1 is being run through DFU (hash 8c91a51ee1e0335a2014f6eba9ed0ff67edc46f7ed799202b29dabc67448b442), this will cause launch time delays
+[06Jan2025 03:37:39.549] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_7 is being run through DFU (hash 611ec66b4ecbe7ae3c1da6f2484167a5b203280a65cad7626b2f03ae77322f16), this will cause launch time delays
+[06Jan2025 03:37:39.551] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_14 is being run through DFU (hash 60701a7a568cbbd4dc5384370dd25936f35c9ea14e91c291adfd31d152a14ba3), this will cause launch time delays
+[06Jan2025 03:37:39.553] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_6 is being run through DFU (hash 41359caad98a809d853587e5b25074ed1665c2d6649768895dac9571facd87b8), this will cause launch time delays
+[06Jan2025 03:37:39.555] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_12 is being run through DFU (hash 083fbf8a75540061583dcf04c54f0478b6bedb235b4bef26bf63c04f7440f306), this will cause launch time delays
+[06Jan2025 03:37:39.558] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_15 is being run through DFU (hash 897538a20a813346b57d872691ad2d3632dc39e6aff12fec240e491ffd010616), this will cause launch time delays
+[06Jan2025 03:37:39.561] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_10 is being run through DFU (hash 718a88b4e6931608d630d0ec3c0817b5d612e75d5758ff7312c579f1c9e039ed), this will cause launch time delays
+[06Jan2025 03:37:39.562] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_18 is being run through DFU (hash 78180d409abd4dd5750445f9594a288a8174872ad38acaa2b27723f91c27b5e8), this will cause launch time delays
+[06Jan2025 03:37:39.564] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_13 is being run through DFU (hash feb653035bf745031cae977c98722ce0cd5272f9e725651fb33e2f7eedc76cdc), this will cause launch time delays
+[06Jan2025 03:37:39.565] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_11 is being run through DFU (hash c419a724ea46c208c7600a3c938672103a1c2eca6c26c5b11f659146354d40a6), this will cause launch time delays
+[06Jan2025 03:37:39.567] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_12 is being run through DFU (hash 1d2bb61567146f009f7e5b3179898f82aa480cd7419ea21ac9bea854dd2bd879), this will cause launch time delays
+[06Jan2025 03:37:39.568] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_4 is being run through DFU (hash b734d24070a870942f4193be75a3c9a9fed150327f4aa3ae81ac7edf446760de), this will cause launch time delays
+[06Jan2025 03:37:39.571] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_4 is being run through DFU (hash 79a11e41c494676ddd38e05a6fa80cdbbd16767be2a8eed98e7d3399d2d9e10e), this will cause launch time delays
+[06Jan2025 03:37:39.572] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_2 is being run through DFU (hash ec84457a81b27c8076b3507dc0bf63c90d6cb8d0a3e784a5b2b9a32873193405), this will cause launch time delays
+[06Jan2025 03:37:39.573] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_1 is being run through DFU (hash f526b63878e2dec302301c644cd34454176d2d8a39ebb1127e71638bf4a0fb80), this will cause launch time delays
+[06Jan2025 03:37:39.581] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_12 is being run through DFU (hash 9aa2afb112fd5fd0cc44acc3b7e7ce74b51ee97973518b3ab5d4e2c695d316b6), this will cause launch time delays
+[06Jan2025 03:37:39.583] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_1 is being run through DFU (hash 3ec50232f43c91c26e968705de8f1075dcdcff68893bc8b7ff8e635193af1a26), this will cause launch time delays
+[06Jan2025 03:37:39.585] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_3 is being run through DFU (hash 7288b40bb80f4f2185d1da5a6e6581293a652e022a57b14265f0322c0cd2b1b3), this will cause launch time delays
+[06Jan2025 03:37:39.587] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_17 is being run through DFU (hash 766c40361a9cb36dee7ba2b79f58d88c28980d5e4ddf5e586eec6dfa3edff968), this will cause launch time delays
+[06Jan2025 03:37:39.588] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_2 is being run through DFU (hash 94df3aaa8de8eac99451d5ef1b89dd9a154db7b8458b8228563007e9fb8dbad6), this will cause launch time delays
+[06Jan2025 03:37:39.590] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_22 is being run through DFU (hash 974c79a39a55439f25442b0c6325c91c9f61495245ec8a73f2989847693e1b91), this will cause launch time delays
+[06Jan2025 03:37:39.594] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_11 is being run through DFU (hash 2a3ce76c4d4385f9361ce94f6ebc1c35edfa493711ded828d04ccc3f243e0afe), this will cause launch time delays
+[06Jan2025 03:37:39.595] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_3 is being run through DFU (hash 23f73b3192634b43d30e7a21d87eceaaf44c0e931d195d42ade527369aa75f70), this will cause launch time delays
+[06Jan2025 03:37:39.596] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_7 is being run through DFU (hash 1bf9ede58c537a8bba521c87d4a5259ce3036b2cc166f92c42d0c3683e2d6a27), this will cause launch time delays
+[06Jan2025 03:37:39.597] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_19 is being run through DFU (hash 4860abbc8209ab67ed419dcea5f85b93d44b80e16346c741b606cfcce32d7d59), this will cause launch time delays
+[06Jan2025 03:37:39.601] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_12 is being run through DFU (hash 0d08ebef46fb3865be22205f41cb8514ed463e4114470fa09366c9ac42b0a697), this will cause launch time delays
+[06Jan2025 03:37:39.602] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_5 is being run through DFU (hash 9dfeba3de7184e638b011c2586754f186d1e8ae5716c97f253b375592199ddae), this will cause launch time delays
+[06Jan2025 03:37:39.605] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_4 is being run through DFU (hash 6a0c7e99321657c697995abf0e2c1615d3daeeb396c452cca220a20194eb7939), this will cause launch time delays
+[06Jan2025 03:37:39.609] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_20 is being run through DFU (hash 378170e3ecd0544d075ddb360e9a39088eb2bd5ae4f6dda5398150c005ec6818), this will cause launch time delays
+[06Jan2025 03:37:39.610] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_15 is being run through DFU (hash 2cc382389227e669306063c31f01aeea0fbd053b8aa455f3f5685cc642bedc6d), this will cause launch time delays
+[06Jan2025 03:37:39.611] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_23 is being run through DFU (hash 2e1196c95a9dfd8b753721234b22bd035e1cf6888a34008b3a642af39d5edf50), this will cause launch time delays
+[06Jan2025 03:37:39.613] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_9 is being run through DFU (hash aa9de4b3a3891adc1fffb1177a73316c5a78e2b1b51036eec4b759166eab786e), this will cause launch time delays
+[06Jan2025 03:37:39.614] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_20 is being run through DFU (hash 9a20c2c3f43f7f64d2f23d82c6b7778b8944e40a600de92a8a50fcd1fd164423), this will cause launch time delays
+[06Jan2025 03:37:39.615] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_14 is being run through DFU (hash 56cbc12c01b5114a01d68f0d1d5734b1684080c34d4d975dfbcc5fdea31c5dcc), this will cause launch time delays
+[06Jan2025 03:37:39.617] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_20 is being run through DFU (hash 773fb98e5b3bca15701d07aaa0e6f94f4ba35102e02c7683040127ab8ad12990), this will cause launch time delays
+[06Jan2025 03:37:39.622] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_5 is being run through DFU (hash 09d0beca27827c1c186ae368c4ee7c2e9843c6bb85c01a85efd9b48c33989b42), this will cause launch time delays
+[06Jan2025 03:37:39.636] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_10 is being run through DFU (hash aed80fc6359775cc380c1c02dbcbf0949d96ca294e7f7103e200d209c058cc27), this will cause launch time delays
+[06Jan2025 03:37:39.645] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_16 is being run through DFU (hash 9b88ce5b03b8fddfb96360417943666bd6018109246135e0fb5dae1198a7fd71), this will cause launch time delays
+[06Jan2025 03:37:39.647] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_0 is being run through DFU (hash c2e0db02e2f2de2b795c27aa5f05a42994f4fc1bae651d73871139833ea8f249), this will cause launch time delays
+[06Jan2025 03:37:39.651] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_9 is being run through DFU (hash 67cc6994858fc6e34a2c3c9df418311418755eeeb9708e5fa239163d12d5f3a1), this will cause launch time delays
+[06Jan2025 03:37:39.655] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_17 is being run through DFU (hash 14ac575ed22d5ba658084df8526830d806767a7db3997fa74adc5afb5ad56b4c), this will cause launch time delays
+[06Jan2025 03:37:39.657] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_8 is being run through DFU (hash 85d5988cc28bbb715f7279eb81c2f2d07797c712dd6abe67379c88e79f3716d1), this will cause launch time delays
+[06Jan2025 03:37:39.658] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_21 is being run through DFU (hash ba3cab6e6b0dcfc5aa81a708d175e8d2a6ed8a1774f10f787c4597e3eac9f0eb), this will cause launch time delays
+[06Jan2025 03:37:39.663] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_14 is being run through DFU (hash 0fa9b67df875d0dcc60edcd16bd1d761709eff90d68e3ee2c5c5ea10aeeb6935), this will cause launch time delays
+[06Jan2025 03:37:39.665] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_11 is being run through DFU (hash f660c4b9fb7a58d57b94ec95eb3af15c510377aa149563d604ca9862d5525240), this will cause launch time delays
+[06Jan2025 03:37:39.667] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_8 is being run through DFU (hash 28c076debbd2cfaa8954d3321b77b99b54716337225106aea7509b871a497a0d), this will cause launch time delays
+[06Jan2025 03:37:39.669] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_21 is being run through DFU (hash 3fcf2ceaac9db4691dd68b2efa1e7608077b12483fa82722bfba76e4d35cbfb1), this will cause launch time delays
+[06Jan2025 03:37:39.674] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_6 is being run through DFU (hash 9de889f1a6da17ffca46adf9e21b50fcdc150b8dec20c6967d2962c587c0d3ad), this will cause launch time delays
+[06Jan2025 03:37:39.676] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_3 is being run through DFU (hash 39ee9d176c7ef1f8012a9e37905b040bdee04c7298994ac8b65a183bce19725d), this will cause launch time delays
+[06Jan2025 03:37:39.678] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_9 is being run through DFU (hash d0960b24838cbab2520113b182221f19dff083118a4679f01a2d21bbdcd6d904), this will cause launch time delays
+[06Jan2025 03:37:39.679] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_6 is being run through DFU (hash 1e23bcc6626b5c66463546295720403ea4cef16c302ae6ea93a3b21a565eaefd), this will cause launch time delays
+[06Jan2025 03:37:39.684] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_20 is being run through DFU (hash 98d64678a6d66314450a5159925e312f421437dbbc7ae52d525921cce185961d), this will cause launch time delays
+[06Jan2025 03:37:39.690] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_0 is being run through DFU (hash b45243c925196d4fb9c6baf2fd63c2a82b974ecdb128c646d4ed93ac71881769), this will cause launch time delays
+[06Jan2025 03:37:39.694] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_18 is being run through DFU (hash bbe0c679db78098077ac820467fe55a7616161d55ecb770cb11972dd76e5b183), this will cause launch time delays
+[06Jan2025 03:37:39.697] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_4 is being run through DFU (hash cf73cd76e3c2c71e8bb5f96e637beeedaf85cd66fb47e4339b5d8355f2d9ea5e), this will cause launch time delays
+[06Jan2025 03:37:39.703] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_13 is being run through DFU (hash d84038d082c6a325b66d73294de5e793f54579dfc7bd50b076db8b5323eb8f5f), this will cause launch time delays
+[06Jan2025 03:37:39.704] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_16 is being run through DFU (hash 0bc2f36a2f5b426463fb4618cc6af0bb08f141834d1f45a80a4955954c95fe7a), this will cause launch time delays
+[06Jan2025 03:37:39.706] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_0 is being run through DFU (hash d1b02dc41ea36c8151a26f0a74a80c05f7b412728e2c242fc43e7fb187272768), this will cause launch time delays
+[06Jan2025 03:37:39.708] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_2 is being run through DFU (hash cc9e98ff10464448835daa28423744e6edc09fcb825ba8a4b363b50444e20039), this will cause launch time delays
+[06Jan2025 03:37:39.710] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_11 is being run through DFU (hash 0ce16f7b7948d1981446b77cf1032341bc7ee9ae5c7a3ac0999a1d68db3b3c43), this will cause launch time delays
+[06Jan2025 03:37:39.714] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_15 is being run through DFU (hash 11300175cd4eec9186ad9a22d5d81fab80c7f0023c921c58f1cdb13215c0fb97), this will cause launch time delays
+[06Jan2025 03:37:39.717] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_9 is being run through DFU (hash b167304170c9ae4940c32bb130ade48b78f806ea907480715c9dea9a460e2d73), this will cause launch time delays
+[06Jan2025 03:37:39.723] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_5 is being run through DFU (hash 7abbf53f36828075793c3604cfb488329056d76d45697c26e71ad461d600f0f0), this will cause launch time delays
+[06Jan2025 03:37:39.724] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_7 is being run through DFU (hash ec0a667258fd1f4511acac113f0f1dd427b638d57c18b50ac913b056c747235e), this will cause launch time delays
+[06Jan2025 03:37:39.726] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_16 is being run through DFU (hash a9d23ed74bfdb336b202f669c02983414e5ac879cc078be11ddc7505a37e7f2e), this will cause launch time delays
+[06Jan2025 03:37:39.728] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_0 is being run through DFU (hash e0d10aa3a3cc19af7ec07ba4f9c4902802742bea5014ff8977a73b2f99f22094), this will cause launch time delays
+[06Jan2025 03:37:39.737] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_17 is being run through DFU (hash 0fd1bdb7d419516a1639b87fe16140c83de7cdd8cfe35ebb579c62acd1584ee8), this will cause launch time delays
+[06Jan2025 03:37:39.749] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_14 is being run through DFU (hash 6bc7f1b8a6695c5748b386036a5b2a5380a728f7c4b7c25aa487a71a22e0b38f), this will cause launch time delays
+[06Jan2025 03:37:39.758] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_2 is being run through DFU (hash e23400f60dbe28cd7d8eeb2dbcc6d069f23ee3b44881a5413baddea62315e788), this will cause launch time delays
+[06Jan2025 03:37:39.761] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_1 is being run through DFU (hash e5e1ee9166d72c0aa4105c9d495dc4dd5ecea0dcb4af289a7f753eb3069ac5e3), this will cause launch time delays
+[06Jan2025 03:37:39.767] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_19 is being run through DFU (hash 1a6c4d10d62611d706e91e825ef23df3e368b93d1e3ab6e57f9fcffd773be476), this will cause launch time delays
+[06Jan2025 03:37:39.771] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_18 is being run through DFU (hash 510ba21689359e94242178d988068df8eb4f1205d025eb0e8674132bc28689ad), this will cause launch time delays
+[06Jan2025 03:37:39.793] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_19 is being run through DFU (hash 249944f7f88532aedd693c44c07c0aa1f42407a0e3613536d06536f36641a1dc), this will cause launch time delays
+[06Jan2025 03:37:39.795] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_5 is being run through DFU (hash dfc4c2defbdf3fd63b3573dbdcefd8dd9491e8dbe4202222b1d588e7c3588f80), this will cause launch time delays
+[06Jan2025 03:37:39.796] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_3 is being run through DFU (hash 3bca22fbb3ee01c64ef6645c2db7c553ddea8b2f094b2d0485d4bf2dbf553bc3), this will cause launch time delays
+[06Jan2025 03:37:39.805] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_19 is being run through DFU (hash c8bcae8edfc941429e25e6799474a3b26475b5c2fc90713206e1d815cc246e30), this will cause launch time delays
+[06Jan2025 03:37:39.809] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_8 is being run through DFU (hash 23600f179a284ce2d346d6de99d6994682e1660d1e973f1a2c6f36e71440b517), this will cause launch time delays
+[06Jan2025 03:37:39.810] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_7 is being run through DFU (hash e85594a092da18f7ddd3c7391c3ec342112c4f41678bb0b4c31ed7fc408d3dfe), this will cause launch time delays
+[06Jan2025 03:37:39.813] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_8 is being run through DFU (hash 27e3e6f9bd6e862735c533f71838b3dde8aa7140a1cf199e4933aa3e26b0c6ce), this will cause launch time delays
+[06Jan2025 03:37:39.818] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_10 is being run through DFU (hash 332976678b5a17a87e6c415bc188de1405946768b54de173240abf4bcabe3c6a), this will cause launch time delays
+[06Jan2025 03:37:39.820] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_15 is being run through DFU (hash 95e08a2bd8b99d513aa17b9cebe815c266f60067685ab6133cab889ec200998d), this will cause launch time delays
+[06Jan2025 03:37:39.821] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_deco_library_17 is being run through DFU (hash 8366bf3e284869ae04c09f8c2e0d0c69911e515c62553b2266cac8774a37f560), this will cause launch time delays
+[06Jan2025 03:37:39.822] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_13 is being run through DFU (hash 37aabb96560802dd707364a9ea73a65489de2fb3ce4791b2858ef31e9b9eddb9), this will cause launch time delays
+[06Jan2025 03:37:39.842] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_mecha_10 is being run through DFU (hash 3cdf7e817f0805f7471da3ea5830778a47a0057c6df4644a3b4ff84c5dbc2a2d), this will cause launch time delays
+[06Jan2025 03:37:39.872] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_11_special is being run through DFU (hash 79bdac590051edc03db009eefdba3442d57506c30e1a76e4124d97b28199016d), this will cause launch time delays
+[06Jan2025 03:37:39.951] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_1 is being run through DFU (hash 3976a983b18fbfba1f4da2918ff8d47f2000aa1a45becd83dea4485be1b73c1f), this will cause launch time delays
+[06Jan2025 03:37:39.953] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_0 is being run through DFU (hash 1848f6d5564e8d41459412ce7cf232fe312e9ac07af6d6e083a757288ad052db), this will cause launch time delays
+[06Jan2025 03:37:39.957] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_3 is being run through DFU (hash ab6fc40b243eb515488dc19a0972bfb0b378aef672b562ac4ef27b8009b3da33), this will cause launch time delays
+[06Jan2025 03:37:39.992] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_0 is being run through DFU (hash 792c7b4f974d377413961ce159fe2e6cf6767405d99b9ba8654631be1ee1b850), this will cause launch time delays
+[06Jan2025 03:37:40.070] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_4 is being run through DFU (hash d107ec2e936a111d870b9b74b6bd0cb4fd6605190e5ea4ebaedc1be6717bb1b3), this will cause launch time delays
+[06Jan2025 03:37:40.078] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_2 is being run through DFU (hash 64918d3a3855f9228ee8df4c4c2de592b12b1885ca6a36311137c755d5c1c32d), this will cause launch time delays
+[06Jan2025 03:37:40.091] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_0 is being run through DFU (hash b992ed651474899e8133a0acecaae1c7f1056ffa0cf0c4cccef5819885a92967), this will cause launch time delays
+[06Jan2025 03:37:40.122] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_9 is being run through DFU (hash bade0bd20eebf6fed23b2ad51abba94742a239f55d5938615fd64498d2e2231a), this will cause launch time delays
+[06Jan2025 03:37:40.130] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_10 is being run through DFU (hash c8bb83851476a0958f768eb6e297164d888b135b617d303c3bd7d16becd955d7), this will cause launch time delays
+[06Jan2025 03:37:40.150] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_6 is being run through DFU (hash 2bf3f4c3cea8377ce2e546ced0022eecd26b670e8cce417180d95d435616870a), this will cause launch time delays
+[06Jan2025 03:37:40.160] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_8 is being run through DFU (hash 8f032096b3d6a48293c59b6aad0e078adf3821eadaeddf7d836a4fb3ac89d68a), this will cause launch time delays
+[06Jan2025 03:37:40.184] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_1 is being run through DFU (hash 09c89bfb8ddc244034946901583771baeda24cbf3827932c0c6173557c78af81), this will cause launch time delays
+[06Jan2025 03:37:40.197] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_2 is being run through DFU (hash c05565715565322380229eb3423f3a02ef1d4e0edbde38afc3aa8558df05f93b), this will cause launch time delays
+[06Jan2025 03:37:40.201] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_6 is being run through DFU (hash fc05f33ada7c7d18ba5c5efa246fd8d6bc50e80469a4a88582757d9099da4a76), this will cause launch time delays
+[06Jan2025 03:37:40.225] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_5 is being run through DFU (hash a2e028be904181108a112ab530725581f22fd0e59d2368e08f8a10593e84badb), this will cause launch time delays
+[06Jan2025 03:37:40.248] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_roof_0 is being run through DFU (hash d693424528592c306e5ad6e7c46699b466ae991ab78e9059240139512816622c), this will cause launch time delays
+[06Jan2025 03:37:40.304] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bottom_0 is being run through DFU (hash 11237f38e0c04c6019e8f16fb3bc4207cce59a272221bdcb2a138eff0f6249cd), this will cause launch time delays
+[06Jan2025 03:37:40.315] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_roof_2 is being run through DFU (hash 8785e30eaea43255b75825416ac783b928e3818dfb8742587efa4875a715778d), this will cause launch time delays
+[06Jan2025 03:37:40.393] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_roof_1 is being run through DFU (hash 2dc0362aca29df48e3d9ab25e688fb5a75b062f24e71b5f9265dcece60055d33), this will cause launch time delays
+[06Jan2025 03:37:40.465] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_roof_0_terminator is being run through DFU (hash bd84a126d5737c6e90a7ec65ea4d5ddd2ba0659f4529f58c58988696f8e8a3c8), this will cause launch time delays
+[06Jan2025 03:37:40.477] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bottom_1 is being run through DFU (hash 73f85c28e23280ead1c5a8dc19fc14f56a8f19bd5872736cf0721b6ecec2f89a), this will cause launch time delays
+[06Jan2025 03:37:40.490] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bottom_0_terminator is being run through DFU (hash 947b742e773092ba35045801f2999deb758830983a30d4c8f798222960239d45), this will cause launch time delays
+[06Jan2025 03:37:40.495] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_3 is being run through DFU (hash 970de7ffebc78a17e961b80cf308c22904c9dd092b5fd4ee298eb4b2577d24b0), this will cause launch time delays
+[06Jan2025 03:37:40.498] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_4 is being run through DFU (hash a7f6ddd1af912bc083307324a4fbb741dbeee9e70693e9549d2675511517a997), this will cause launch time delays
+[06Jan2025 03:37:40.499] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_4 is being run through DFU (hash 66ecdeed3e2cf34a344c7d50320f2a3e78370bc99705c093492803b23c9062f1), this will cause launch time delays
+[06Jan2025 03:37:40.512] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_1 is being run through DFU (hash 23535c938827e803d9fdfc8cdcf2f2cd4c7ec810e1538d459f663754a4276259), this will cause launch time delays
+[06Jan2025 03:37:40.566] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_2 is being run through DFU (hash 5b8ee0e18796e59754ea239a09a545dc54cb8f523ace459ae8b61b42c7b6c22d), this will cause launch time delays
+[06Jan2025 03:37:40.656] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_4 is being run through DFU (hash 7ddfda052c3c0a9a21631fd69931b85d3dab3ae6bf602b825caa787f6bf80735), this will cause launch time delays
+[06Jan2025 03:37:40.714] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_5 is being run through DFU (hash 4a94576fc526b8babbf53016f058409e3ab6b6415b948aaa88a6debaab823094), this will cause launch time delays
+[06Jan2025 03:37:40.848] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_3 is being run through DFU (hash 679b27087ad10b25d6b875705f3d8ed229d07c91055b1dfd06e2a58fe2c0c9d4), this will cause launch time delays
+[06Jan2025 03:37:40.895] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_8 is being run through DFU (hash 8813c8432f9812b7c63486ed0dfbd6b90df4d50084475d65dea98c4c67126ae2), this will cause launch time delays
+[06Jan2025 03:37:41.009] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_7 is being run through DFU (hash 2e9b2faad0bf1b833cee56a5d3e89e88770b8b78e0965c6dec79145465595898), this will cause launch time delays
+[06Jan2025 03:37:41.137] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_10 is being run through DFU (hash 9ee2a2ca99c339aef91fbadd20d3e2118afdba4b5920b63f1615157c2c84476c), this will cause launch time delays
+[06Jan2025 03:37:41.216] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_6 is being run through DFU (hash 1f4b8e374a9e5533deec3dd2e5c42c0a2e9e90df8cb6763cc6b1c520c73dc6f2), this will cause launch time delays
+[06Jan2025 03:37:41.276] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_crossing_9 is being run through DFU (hash 741debdf991a502f0aa91633b6053aa8a001e1c18df8305ddb7086fe71913da4), this will cause launch time delays
+[06Jan2025 03:37:41.368] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_0 is being run through DFU (hash 009e0b5cfac0d5635c5055c02c2b3e38875ecd0a04276260e63b192187ab71b9), this will cause launch time delays
+[06Jan2025 03:37:41.417] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_1 is being run through DFU (hash 158c9996afcd6ddf6e998e702e971056246843dfeae20c2bf6e87c88d6ab4f42), this will cause launch time delays
+[06Jan2025 03:37:41.516] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_7 is being run through DFU (hash ff933f1c9b38aa5a39c7fbebc54af02f89d8b420375fe42eecc1f66b4212e2e6), this will cause launch time delays
+[06Jan2025 03:37:41.546] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_2 is being run through DFU (hash 4973efd27cb28ada74195bea452551d8d198693daf3ba5f9ab1085f7990a4c23), this will cause launch time delays
+[06Jan2025 03:37:41.553] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_1 is being run through DFU (hash 91c62c3fe012bdc600bef6efdc9db1f60323ad4ad61901ceb536be51f1f4760d), this will cause launch time delays
+[06Jan2025 03:37:41.560] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_5 is being run through DFU (hash 218c2bc036f38c713c441aa329ce0efe7c06311cd5d6116c33daf094c7314401), this will cause launch time delays
+[06Jan2025 03:37:41.565] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_3 is being run through DFU (hash daf8dafe9b245f5da2f552700daa9a21e4b33b915f53b215fbdc1798e9e3442d), this will cause launch time delays
+[06Jan2025 03:37:41.570] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_spawner_0 is being run through DFU (hash cbc852ac1e1d9008ea490e0b8980bdeb447782ca3e2136ab23a57ca871da739a), this will cause launch time delays
+[06Jan2025 03:37:41.578] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_1 is being run through DFU (hash 5531482a07234b18fe8405b3104890f19961383347df0fa930cc46da3a2c92f9), this will cause launch time delays
+[06Jan2025 03:37:41.620] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_4 is being run through DFU (hash b6cd623b7c32d175845a879d623196946977d167e24cd58793dea228143dad14), this will cause launch time delays
+[06Jan2025 03:37:41.696] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_3 is being run through DFU (hash d88e2e6b8e3fae929758b599eb063011114ad492c23e7527c822383dbc4e356d), this will cause launch time delays
+[06Jan2025 03:37:41.792] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_7_special is being run through DFU (hash f23c1c676c32ea57a735314087791868e718466ffcdb458540629abdba1af2a5), this will cause launch time delays
+[06Jan2025 03:37:42.032] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_5 is being run through DFU (hash 08a82d83e14337814c13ce70044c5ef08ac1966aa4ce42d426e9d961b2b23210), this will cause launch time delays
+[06Jan2025 03:37:42.106] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_2 is being run through DFU (hash ad35189e3fb55e0067f8c79d46ac24470f3b36b04fc8bbfbd9c0d719a1d19b28), this will cause launch time delays
+[06Jan2025 03:37:42.184] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_8_special is being run through DFU (hash de0af29008128ee57af6875524435f9b4bafcdea6ecd3f9bde5a429899c31c4f), this will cause launch time delays
+[06Jan2025 03:37:42.354] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_towers_6_special is being run through DFU (hash b74d23bd46c77993cf294deaa5b8c8160964015a59110993b3af0107051cb307), this will cause launch time delays
+[06Jan2025 03:37:42.497] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_4 is being run through DFU (hash 158c0e8798618a01b9ae627fb9a61ba778fe15bcd2e57d43b6c1e329da2b8f04), this will cause launch time delays
+[06Jan2025 03:37:42.527] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_3 is being run through DFU (hash 984efe6c0b6a0fe7f262246db3bb7f40727ad09a2d5269f0eae4102d4651d956), this will cause launch time delays
+[06Jan2025 03:37:42.549] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[06Jan2025 03:37:42.555] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_0 is being run through DFU (hash d43ee1cf165d2ab3cff7ef199cdbfaba33882590f07ab82e482d884453684a33), this will cause launch time delays
+[06Jan2025 03:37:42.584] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_8 is being run through DFU (hash 7e9778837b8d66c529672aa39f36a01e85ece5ccab86514dc0b2ebd509acac70), this will cause launch time delays
+[06Jan2025 03:37:42.637] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_9 is being run through DFU (hash f5f0c247a834a68bd513ae863bf3db1d9d7b7f4e85cc723021f62c01ff451ac1), this will cause launch time delays
+[06Jan2025 03:37:42.725] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_5 is being run through DFU (hash f0342c897318ca8897ec9dbd67057612f1969e116050601cf1ea5df2566bb431), this will cause launch time delays
+[06Jan2025 03:37:42.915] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[06Jan2025 03:37:43.019] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_0 is being run through DFU (hash f05a2a42d34d319df5f12de32e1579a6299ad72824f3596489ad761a075a0e87), this will cause launch time delays
+[06Jan2025 03:37:43.029] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_5 is being run through DFU (hash ff7db1cccfd62e9e2a0e2bf4c52306e2bc3f0b3332fd46f58d6d66d29e19f7ef), this will cause launch time delays
+[06Jan2025 03:37:43.034] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_6 is being run through DFU (hash 9c4c8aed696712a7311b20bb525544796ec64ebd8e6bf7944c170faf45c6152c), this will cause launch time delays
+[06Jan2025 03:37:43.038] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_7 is being run through DFU (hash 96f9b66e12fb9893901c83547b06eebcc1b08a213c01482fe9e686ababf66b83), this will cause launch time delays
+[06Jan2025 03:37:43.051] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_1 is being run through DFU (hash d48c81e7081f479b028f7439b692508014698d6ee9f9aeaac771525c5d4e6a12), this will cause launch time delays
+[06Jan2025 03:37:43.058] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_2 is being run through DFU (hash c996a6fed48ce7c3918f6f53bbf3086a26b665501dc80c59449719ed5d0209d7), this will cause launch time delays
+[06Jan2025 03:37:43.222] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_rooms_6 is being run through DFU (hash 84ac147a2b5dcff879b61a08ee125a970bdee175ee8463c5dd62d0d56c091f7c), this will cause launch time delays
+[06Jan2025 03:37:43.376] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_8 is being run through DFU (hash 5a2561c17e3d4d147dfaa31ac26787b2ce2907ecebde6575d30d5449e147934b), this will cause launch time delays
+[06Jan2025 03:37:43.402] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_3 is being run through DFU (hash c0bd74bd60fce480afbdae80d0768383a66b614b12292b96acc511b6dedf9536), this will cause launch time delays
+[06Jan2025 03:37:43.410] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_4 is being run through DFU (hash c1387c4075acd2d90a97db3671ac5699d54e9895b4c2a22a9f1d46dae3742af1), this will cause launch time delays
+[06Jan2025 03:37:43.424] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_small_room_2 is being run through DFU (hash f3ecc8c2c88c3cfb50be52e035b300dd591cd51f0b39383ed44578984dfa9869), this will cause launch time delays
+[06Jan2025 03:37:43.444] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[06Jan2025 03:37:43.560] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[06Jan2025 03:37:43.795] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[06Jan2025 03:37:44.074] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[06Jan2025 03:37:44.154] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[06Jan2025 03:37:46.716] [Worker-Main-22/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[06Jan2025 03:37:49.683] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[06Jan2025 03:37:54.483] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
+[06Jan2025 03:37:54.485] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
