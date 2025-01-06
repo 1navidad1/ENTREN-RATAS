@@ -24,3 +24,5 @@
 [06Jan2025 00:38:20.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 fell from a high place
 [06Jan2025 00:38:20.951] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_06.01.2025-00.38.20.dat
 [06Jan2025 00:38:49.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 fell from a high place
+[06Jan2025 01:29:04.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mansana_12 lost connection: Disconnected
+[06Jan2025 01:29:04.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 left the game
