@@ -3065,5 +3065,17 @@
     },
     "done": true
   },
+  "enemyexpansion:wasp_drone_summon": {
+    "criteria": {
+      "wasp_drone_summon_0": "2025-01-06 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider_smithing": {
+    "criteria": {
+      "has_spider": "2025-01-06 03:24:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
