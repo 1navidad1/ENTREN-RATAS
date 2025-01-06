@@ -3029,9 +3029,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "has_salmon": "2025-01-06 00:14:24 +0000"
+      "has_gold_nugget": "2025-01-05 23:57:31 +0000"
     },
     "done": true
   },
@@ -3041,9 +3041,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/brewing/golden_carrot": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_gold_nugget": "2025-01-05 23:57:31 +0000"
+      "has_bow": "2025-01-06 00:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-06 00:14:24 +0000"
     },
     "done": true
   },
@@ -3056,12 +3062,6 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-01-06 00:14:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-01-06 00:02:39 +0000"
     },
     "done": true
   },
