@@ -1,3 +1,12 @@
 [06Jan2025 00:01:25.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mansana_12 lost connection: Disconnected
 [06Jan2025 00:01:25.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 left the game
 [06Jan2025 00:02:13.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD has made the advancement [Ol' Betsy]
+[06Jan2025 00:08:10.993] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mansana_12[/127.147.255.185:40971] logged in with entity id 90573 at (-79.20476064279829, 25.0, 354.30000001192093)
+[06Jan2025 00:08:11.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
+[06Jan2025 00:08:11.027] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
+[06Jan2025 00:08:56.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mansana_12 lost connection: Disconnected
+[06Jan2025 00:08:56.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 left the game
+[06Jan2025 00:09:22.941] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mansana_12[/127.147.255.185:43587] logged in with entity id 91022 at (-79.20476064279829, 25.0, 354.30000001192093)
+[06Jan2025 00:09:22.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
+[06Jan2025 00:09:22.963] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
+[06Jan2025 00:11:59.286] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
