@@ -541,6 +541,7 @@
       "potato": "2025-01-04 23:18:59 +0000",
       "pumpkin_pie": "2025-01-05 23:04:49 +0000",
       "bread": "2025-01-04 22:18:12 +0000",
+      "golden_apple": "2025-01-07 15:12:25 +0000",
       "cookie": "2024-12-30 02:11:10 +0000",
       "rotten_flesh": "2025-01-07 14:53:23 +0000",
       "golden_carrot": "2025-01-07 15:00:07 +0000",
@@ -2934,9 +2935,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-01-07 15:08:29 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/fox": {
     "criteria": {
       "has_sweet_berries": "2025-01-07 14:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-01-07 15:09:02 +0000"
     },
     "done": true
   },
@@ -2952,9 +2965,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-01-07 15:09:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-01-07 15:09:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-01-07 14:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-01-07 15:09:02 +0000"
     },
     "done": true
   },

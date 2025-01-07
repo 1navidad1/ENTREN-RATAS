@@ -968,3 +968,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 15:03:33.383] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/2587, l='ServerLevel[world]', x=-874.68, y=156.00, z=1055.70] died: Gearling fell from a high place
 [07Jan2025 15:03:53.814] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/809, l='ServerLevel[world]', x=-876.15, y=173.00, z=1049.85] died: Gearling was slain by Mansana_12
 [07Jan2025 15:06:01.996] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[07Jan2025 15:09:04.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Skeleton
+[07Jan2025 15:09:04.755] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_07.01.2025-15.09.04.dat
+[07Jan2025 15:09:12.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Skeleton
+[07Jan2025 15:09:12.787] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NAVIDAD with unique ID travelersbackpack.standard_07.01.2025-15.09.12.dat
+[07Jan2025 15:09:14.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[07Jan2025 15:09:23.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Skeleton
+[07Jan2025 15:10:33.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[07Jan2025 15:11:11.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[07Jan2025 15:13:15.822] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1075, l='ServerLevel[world]', x=-876.33, y=173.00, z=1061.84] died: Gearling was slain by Mansana_12
+[07Jan2025 15:13:43.658] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[07Jan2025 15:13:50.675] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[07Jan2025 15:13:50.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> amiguito engorde de engordes
+[07Jan2025 15:14:06.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> amiguito bisteck
+[07Jan2025 15:14:48.622] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[07Jan2025 15:15:54.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[07Jan2025 15:15:54.796] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_07.01.2025-15.15.54.dat
+[07Jan2025 15:16:39.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
