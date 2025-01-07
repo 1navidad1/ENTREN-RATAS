@@ -1020,3 +1020,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 15:46:37.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Skeleton
 [07Jan2025 15:46:37.785] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NAVIDAD with unique ID travelersbackpack.standard_07.01.2025-15.46.37.dat
 [07Jan2025 15:47:59.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 withered away whilst fighting Wither Skeleton
+[07Jan2025 15:51:35.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC went off with a bang
+[07Jan2025 15:51:35.494] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_07.01.2025-15.51.35.dat
+[07Jan2025 15:51:46.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[07Jan2025 15:51:46.741] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_07.01.2025-15.51.46.dat
+[07Jan2025 15:56:36.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Skeleton
+[07Jan2025 15:56:36.687] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NAVIDAD with unique ID travelersbackpack.standard_07.01.2025-15.56.36.dat
