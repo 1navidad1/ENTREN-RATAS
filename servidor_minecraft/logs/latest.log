@@ -1086,3 +1086,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 16:45:25.233] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
 [07Jan2025 16:45:25.234] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
 [07Jan2025 16:47:24.968] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[07Jan2025 16:51:22.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC has made the advancement [Ice Bucket Challenge]
+[07Jan2025 16:52:40.952] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[07Jan2025 16:53:14.798] [Worker-Main-30/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[07Jan2025 16:57:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 has made the advancement [Junior Summoner]
+[07Jan2025 16:58:50.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> un buen bisteck
+[07Jan2025 16:58:54.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BastiMC lost connection: Disconnected
+[07Jan2025 16:58:54.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC left the game
+[07Jan2025 16:58:59.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> hfgyuhbnp´ko
+[07Jan2025 16:59:29.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BastiMC[/127.147.255.185:45751] logged in with entity id 42993 at (-348.81845976385193, 19.0, 478.2514606761188)
+[07Jan2025 16:59:29.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC joined the game
+[07Jan2025 16:59:29.158] [Server thread/INFO] [Jade/]: Syncing config to BastiMC (4938fc54-3b3a-35a1-9aac-7049868f6dcb)

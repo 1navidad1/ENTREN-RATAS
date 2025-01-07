@@ -3358,6 +3358,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-01-07 16:51:22 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/guts_sword": {
     "criteria": {
       "has_item": "2025-01-07 15:50:14 +0000"
@@ -3382,6 +3388,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-07 16:51:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-01-07 15:50:14 +0000"
@@ -3391,6 +3403,12 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-01-07 16:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-07 16:51:22 +0000"
     },
     "done": true
   },
