@@ -944,3 +944,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 14:56:31.671] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/2091, l='ServerLevel[world]', x=-886.78, y=179.00, z=1060.50] died: Gearling was slain by BastiMC
 [07Jan2025 14:56:36.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Gearling
 [07Jan2025 14:56:36.891] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NAVIDAD with unique ID travelersbackpack.standard_07.01.2025-14.56.36.dat
+[07Jan2025 14:57:50.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Gearling
+[07Jan2025 14:57:50.508] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/Action
+[07Jan2025 14:57:50.510] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
+[07Jan2025 14:57:50.513] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
+[07Jan2025 14:57:50.521] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler
+[07Jan2025 14:58:45.983] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1530, l='ServerLevel[world]', x=-881.72, y=140.00, z=1050.14] died: Gearling hit the ground too hard
+[07Jan2025 15:00:54.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/873, l='ServerLevel[world]', x=-875.32, y=168.50, z=1050.77] died: Gearling was slain by NAVIDAD
+[07Jan2025 15:01:03.562] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/2560, l='ServerLevel[world]', x=-878.90, y=173.00, z=1061.16] died: Gearling was slain by Mansana_12
+[07Jan2025 15:01:26.215] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1351, l='ServerLevel[world]', x=-874.66, y=173.00, z=1049.15] died: Gearling was slain by Mansana_12
+[07Jan2025 15:01:28.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1429, l='ServerLevel[world]', x=-874.66, y=173.00, z=1049.15] died: Gearling was slain by Mansana_12
+[07Jan2025 15:01:40.472] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1476, l='ServerLevel[world]', x=-874.66, y=173.00, z=1049.15] died: Gearling was slain by BastiMC
+[07Jan2025 15:01:40.474] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1139, l='ServerLevel[world]', x=-874.66, y=173.00, z=1049.15] died: Gearling was slain by BastiMC
+[07Jan2025 15:01:42.073] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1539, l='ServerLevel[world]', x=-874.66, y=173.00, z=1049.15] died: Gearling was slain by BastiMC
+[07Jan2025 15:01:45.959] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1567, l='ServerLevel[world]', x=-874.15, y=173.00, z=1049.85] died: Gearling was slain by Mansana_12
+[07Jan2025 15:01:46.766] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/2130, l='ServerLevel[world]', x=-874.15, y=173.00, z=1049.85] died: Gearling was slain by Mansana_12
+[07Jan2025 15:02:45.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1793, l='ServerLevel[world]', x=-877.20, y=169.55, z=1052.48] died: Gearling was slain by NAVIDAD
+[07Jan2025 15:03:00.981] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1211, l='ServerLevel[world]', x=-876.50, y=149.00, z=1064.93] died: Gearling hit the ground too hard
+[07Jan2025 15:03:09.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Gearling
+[07Jan2025 15:03:10.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-881, y=172, z=1052}
+[07Jan2025 15:03:12.774] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1835, l='ServerLevel[world]', x=-882.83, y=173.00, z=1060.72] died: Gearling was slain by BastiMC
+[07Jan2025 15:03:15.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1489, l='ServerLevel[world]', x=-880.45, y=172.00, z=1054.20] died: Gearling was slain by Mansana_12
+[07Jan2025 15:03:33.383] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/2587, l='ServerLevel[world]', x=-874.68, y=156.00, z=1055.70] died: Gearling fell from a high place
+[07Jan2025 15:03:53.814] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/809, l='ServerLevel[world]', x=-876.15, y=173.00, z=1049.85] died: Gearling was slain by Mansana_12
+[07Jan2025 15:06:01.996] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
