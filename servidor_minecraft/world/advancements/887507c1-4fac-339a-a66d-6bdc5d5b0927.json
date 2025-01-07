@@ -2978,6 +2978,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-01-07 16:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_exposed_cut_copper": "2025-01-07 15:09:02 +0000"

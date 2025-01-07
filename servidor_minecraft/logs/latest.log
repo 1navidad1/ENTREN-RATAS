@@ -1052,3 +1052,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 16:16:02.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Skeleton
 [07Jan2025 16:16:48.589] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [07Jan2025 16:17:30.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[07Jan2025 16:19:50.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[07Jan2025 16:20:22.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[07Jan2025 16:21:28.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Gearling
+[07Jan2025 16:21:38.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Gearling
+[07Jan2025 16:22:22.965] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/24763, l='ServerLevel[world]', x=-828.73, y=211.54, z=1048.25] died: Gearling was slain by NAVIDAD
+[07Jan2025 16:22:31.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Gearling
+[07Jan2025 16:22:31.740] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NAVIDAD with unique ID travelersbackpack.standard_07.01.2025-16.22.31.dat
+[07Jan2025 16:22:32.605] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/24758, l='ServerLevel[world]', x=-823.96, y=207.06, z=1054.50] died: Gearling was slain by Mansana_12
+[07Jan2025 16:22:36.794] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27466, l='ServerLevel[world]', x=-823.50, y=207.06, z=1053.85] died: Gearling was slain by Mansana_12
+[07Jan2025 16:22:48.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[07Jan2025 16:23:41.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[07Jan2025 16:24:32.982] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/27317, l='ServerLevel[world]', x=-838.15, y=238.00, z=1063.71] died: Gearling fell from a high place
+[07Jan2025 16:28:06.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was doomed to fall by Zombie Villager
+[07Jan2025 16:28:06.806] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_07.01.2025-16.28.06.dat
+[07Jan2025 16:28:34.883] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/29872, l='ServerLevel[world]', x=-822.42, y=207.06, z=1054.36] died: Gearling fell from a high place
