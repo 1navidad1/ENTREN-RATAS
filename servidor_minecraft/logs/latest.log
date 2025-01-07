@@ -985,3 +985,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 15:15:54.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
 [07Jan2025 15:15:54.796] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_07.01.2025-15.15.54.dat
 [07Jan2025 15:16:39.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[07Jan2025 15:24:17.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Wither Skeleton
+[07Jan2025 15:24:17.844] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_07.01.2025-15.24.17.dat
+[07Jan2025 15:24:56.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Wither Skeleton
+[07Jan2025 15:24:56.541] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NAVIDAD with unique ID travelersbackpack.standard_07.01.2025-15.24.56.dat
+[07Jan2025 15:25:13.685] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[07Jan2025 15:25:22.239] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[07Jan2025 15:25:22.240] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[07Jan2025 15:25:22.261] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[07Jan2025 15:25:22.264] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[07Jan2025 15:25:27.690] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[07Jan2025 15:25:47.789] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[07Jan2025 15:25:57.014] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[07Jan2025 15:33:31.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Wither Skeleton
+[07Jan2025 15:33:31.648] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NAVIDAD with unique ID travelersbackpack.standard_07.01.2025-15.33.31.dat
+[07Jan2025 15:34:54.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Wither Skeleton
+[07Jan2025 15:34:54.847] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_07.01.2025-15.34.54.dat
+[07Jan2025 15:35:07.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Skeleton
+[07Jan2025 15:35:29.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Wither Skeleton
+[07Jan2025 15:35:29.643] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_07.01.2025-15.35.29.dat
+[07Jan2025 15:35:56.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[07Jan2025 15:35:57.241] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[07Jan2025 15:36:16.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Skeleton
+[07Jan2025 15:36:39.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
