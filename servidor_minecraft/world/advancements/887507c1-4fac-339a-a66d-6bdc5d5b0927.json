@@ -2936,9 +2936,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
-      "has_lilac": "2025-01-07 15:08:29 +0000"
+      "has_moss_block": "2025-01-07 14:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-01-07 14:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-07 14:43:07 +0000"
     },
     "done": true
   },
@@ -2948,39 +2960,21 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/standard_smithing": {
-    "criteria": {
-      "has_standard": "2025-01-07 15:38:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs": {
-    "criteria": {
-      "has_waxed_exposed_cut_copper": "2025-01-07 15:09:02 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:standard_from_custom": {
-    "criteria": {
-      "has_backpack": "2025-01-07 15:38:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2025-01-07 14:51:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
-      "has_moss_block": "2025-01-07 14:43:07 +0000"
+      "has_lilac": "2025-01-07 15:08:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/honey_bottle": {
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs": {
     "criteria": {
-      "has_honey_block": "2025-01-07 16:21:06 +0000"
+      "has_waxed_exposed_cut_copper": "2025-01-07 15:09:02 +0000"
     },
     "done": true
   },
@@ -2996,21 +2990,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-01-07 14:43:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab": {
     "criteria": {
       "has_waxed_exposed_cut_copper": "2025-01-07 15:09:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+  "travelersbackpack:recipes/misc/standard_smithing": {
     "criteria": {
-      "has_moss_block": "2025-01-07 14:43:07 +0000"
+      "has_standard": "2025-01-07 15:38:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_backpack": "2025-01-07 15:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-01-07 16:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-01-07 16:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-07 16:35:11 +0000"
     },
     "done": true
   },
