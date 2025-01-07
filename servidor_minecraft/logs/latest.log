@@ -1026,3 +1026,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 15:51:46.741] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_07.01.2025-15.51.46.dat
 [07Jan2025 15:56:36.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Skeleton
 [07Jan2025 15:56:36.687] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NAVIDAD with unique ID travelersbackpack.standard_07.01.2025-15.56.36.dat
+[07Jan2025 16:01:22.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC has made the advancement [Sneak 100]
+[07Jan2025 16:01:41.169] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[07Jan2025 16:01:41.170] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[07Jan2025 16:05:20.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Gearling
+[07Jan2025 16:05:23.883] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/20659, l='ServerLevel[world]', x=-836.69, y=207.00, z=1057.22] died: Gearling suffocated in a wall
+[07Jan2025 16:06:15.833] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/20646, l='ServerLevel[world]', x=-826.75, y=207.00, z=1055.86] died: Gearling went off with a bang
+[07Jan2025 16:06:15.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD went off with a bang
+[07Jan2025 16:06:15.843] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NAVIDAD with unique ID travelersbackpack.standard_07.01.2025-16.06.15.dat
+[07Jan2025 16:10:00.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Gearling
+[07Jan2025 16:10:00.239] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_07.01.2025-16.10.00.dat
+[07Jan2025 16:10:14.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Gearling
+[07Jan2025 16:10:14.737] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_07.01.2025-16.10.14.dat
+[07Jan2025 16:12:48.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/21721, l='ServerLevel[world]', x=-830.40, y=222.92, z=1050.00] died: Gearling was killed by Mansana_12 using magic
+[07Jan2025 16:12:50.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Gearling
+[07Jan2025 16:12:59.411] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/21864, l='ServerLevel[world]', x=-828.99, y=215.00, z=1052.46] died: Gearling was slain by NAVIDAD
+[07Jan2025 16:13:04.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/24406, l='ServerLevel[world]', x=-826.55, y=213.00, z=1050.26] died: Gearling was slain by NAVIDAD
+[07Jan2025 16:13:07.941] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[07Jan2025 16:13:09.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Skeleton
+[07Jan2025 16:13:09.589] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NAVIDAD with unique ID travelersbackpack.standard_07.01.2025-16.13.09.dat
+[07Jan2025 16:13:12.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[07Jan2025 16:13:25.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Lifestealer
+[07Jan2025 16:14:15.295] [Worker-Main-30/INFO] [ModernFix/]: Instantiating Mojang DFU
+[07Jan2025 16:14:23.810] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[07Jan2025 16:16:02.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD was slain by Skeleton
+[07Jan2025 16:16:48.589] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[07Jan2025 16:17:30.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton

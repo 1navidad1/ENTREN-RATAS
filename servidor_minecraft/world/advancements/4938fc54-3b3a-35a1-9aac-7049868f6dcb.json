@@ -443,6 +443,7 @@
       "cooked_porkchop": "2025-01-04 22:17:01 +0000",
       "chicken": "2024-12-30 02:05:24 +0000",
       "cooked_mutton": "2025-01-05 23:56:23 +0000",
+      "sweet_berries": "2025-01-07 16:07:41 +0000",
       "cooked_beef": "2025-01-04 21:52:26 +0000",
       "beef": "2025-01-04 22:20:25 +0000",
       "porkchop": "2025-01-04 21:48:29 +0000",
@@ -3378,6 +3379,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-01-07 15:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-07 16:01:22 +0000"
     },
     "done": true
   },
