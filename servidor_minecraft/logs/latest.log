@@ -1075,3 +1075,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 16:33:18.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD has made the advancement [Cover Me with Diamonds]
 [07Jan2025 16:37:03.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC has made the advancement [Bypassing the Expiration Date]
 [07Jan2025 16:38:41.190] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[07Jan2025 16:39:45.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 has made the advancement [Hot Stuff]
+[07Jan2025 16:43:56.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mansana_12 lost connection: Disconnected
+[07Jan2025 16:43:56.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 left the game
+[07Jan2025 16:44:06.793] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mansana_12[/127.147.255.185:35637] logged in with entity id 37462 at (-579.3478339388508, 173.0, 636.3625981997097)
+[07Jan2025 16:44:06.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
+[07Jan2025 16:44:06.825] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
+[07Jan2025 16:44:20.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was killed trying to hurt Skeleton
+[07Jan2025 16:44:20.186] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_07.01.2025-16.44.20.dat
+[07Jan2025 16:45:25.233] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[07Jan2025 16:45:25.234] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[07Jan2025 16:47:24.968] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness

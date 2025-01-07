@@ -3026,5 +3026,17 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-07 16:39:45 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-01-07 16:42:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
