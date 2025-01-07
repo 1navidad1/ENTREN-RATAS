@@ -1097,3 +1097,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 16:59:29.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BastiMC[/127.147.255.185:45751] logged in with entity id 42993 at (-348.81845976385193, 19.0, 478.2514606761188)
 [07Jan2025 16:59:29.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC joined the game
 [07Jan2025 16:59:29.158] [Server thread/INFO] [Jade/]: Syncing config to BastiMC (4938fc54-3b3a-35a1-9aac-7049868f6dcb)
+[07Jan2025 17:10:47.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> duermanduermanduermanduerman
+[07Jan2025 17:11:37.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BastiMC lost connection: Disconnected
+[07Jan2025 17:11:37.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC left the game
+[07Jan2025 17:11:40.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAVIDAD lost connection: Disconnected
+[07Jan2025 17:11:40.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD left the game
+[07Jan2025 17:11:54.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> zzz
+[07Jan2025 17:11:55.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> zz
+[07Jan2025 17:11:56.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> zzz
+[07Jan2025 17:11:58.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> zzz
+[07Jan2025 17:12:00.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAVIDAD[/127.147.255.185:47893] logged in with entity id 48853 at (-331.8864170646418, 104.0, 670.2937492131915)
+[07Jan2025 17:12:00.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD joined the game
+[07Jan2025 17:12:00.207] [Server thread/INFO] [Jade/]: Syncing config to NAVIDAD (1972ff52-d48b-32c5-a5fe-384380583832)
+[07Jan2025 17:12:01.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> zzz
+[07Jan2025 17:12:02.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> zzz
+[07Jan2025 17:12:06.099] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BastiMC[/127.147.255.185:55651] logged in with entity id 49027 at (-362.3142977778636, 19.0, 449.3366340918545)
+[07Jan2025 17:12:06.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC joined the game
+[07Jan2025 17:12:06.160] [Server thread/INFO] [Jade/]: Syncing config to BastiMC (4938fc54-3b3a-35a1-9aac-7049868f6dcb)
+[07Jan2025 17:15:26.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD has reached the goal [Quaint Scribe]
+[07Jan2025 17:16:11.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD has made the advancement [Magery]
+[07Jan2025 17:17:08.707] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[07Jan2025 17:17:11.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Zombie
+[07Jan2025 17:17:11.297] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_07.01.2025-17.17.11.dat
+[07Jan2025 17:18:51.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Zombie
+[07Jan2025 17:18:51.396] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_07.01.2025-17.18.51.dat
