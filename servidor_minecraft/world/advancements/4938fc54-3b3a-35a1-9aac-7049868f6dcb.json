@@ -574,6 +574,7 @@
       "minecraft:husk": "2025-01-05 23:19:37 +0000",
       "minecraft:silverfish": "2025-01-05 16:39:57 +0000",
       "minecraft:zombie": "2024-12-30 02:12:49 +0000",
+      "minecraft:drowned": "2025-01-07 17:06:59 +0000",
       "minecraft:zombie_villager": "2025-01-04 22:27:44 +0000"
     },
     "done": false
@@ -3352,21 +3353,15 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2025-01-07 15:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-01-07 15:29:52 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
-    "criteria": {
-      "has_obsidian": "2025-01-07 16:51:22 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/guts_sword": {
-    "criteria": {
-      "has_item": "2025-01-07 15:50:14 +0000"
     },
     "done": true
   },
@@ -3376,25 +3371,19 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/decorations/chungus_monolith": {
+  "soulsweapons:recipes/combat/guts_sword": {
     "criteria": {
-      "has_item": "2025-01-07 15:06:23 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bypassingthe_expiration_date": {
-    "criteria": {
-      "bypassingthe_expiration_date_0": "2025-01-07 16:37:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-01-07 16:51:22 +0000"
+      "has_item": "2025-01-07 15:50:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-07 15:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-01-07 15:50:14 +0000"
     },
@@ -3406,21 +3395,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
-      "has_obsidian": "2025-01-07 16:51:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-01-07 15:50:14 +0000"
+      "bypassingthe_expiration_date_0": "2025-01-07 16:37:03 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_slime_block": "2025-01-07 16:45:13 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-01-07 16:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-07 16:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-07 16:51:22 +0000"
     },
     "done": true
   },
